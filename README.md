@@ -5,6 +5,9 @@ I keep finding/borrowing recipes, making them, and then losing them. To put an e
 
 I'm going to do my best to keep this from getting messy, but I may have to come back and organize at some point.
 
+## [Links](Links.md)
+Quick-link to a document in the repo with links to things I want to make/add
+
 ## By YouTuber
 ### Babish ([channel](https://www.youtube.com/user/bgfilms))
 * [Pancakes](pancakes.md)

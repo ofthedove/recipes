@@ -1,5 +1,6 @@
 # Cornbread
 Adam Ragusea's recipe from YouTube. Gonna try it, figure I should write it down first.
+Made it. It's very good, it's moist! Def on the sweet side, and too much for just me.
 
 ## Ingredients
 * 1 Egg

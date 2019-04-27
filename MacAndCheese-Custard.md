@@ -1,8 +1,9 @@
 # Macaroni and Cheese
 This is the Serious Eats Food Lab macaroni and cheese from here: https://www.seriouseats.com/recipes/2015/10/the-food-labs-ultra-gooey-stovetop-mac-cheese.html
 It's simpler than a bechamel mac and cheese, but not quite as simple as the one-pot recipies from food lab and food wishes
-I made this one for Trigger Tuesday one time and it worked well. I'm about to make it again, so copying it here.
-Mustard and hot sauce are, of course, optional.
+I made this one for Trigger Tuesday one time and it worked well.
+
+I also made it recently with some modifications. I made just the cheese sauce seperate from the noodles, so I could put some on noodles and some on rice. Both were good, but it got just a little grainy. I assume mixing it with the noodles in helps control temp a little better. Also, I left out the mustard and hotsauce, and used 18oz colby jack + 6oz sharp cheddar, and didn't end up adding the cornstarch.
 
 ## Ingredients
 * 1 pound elbow macaroni

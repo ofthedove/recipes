@@ -11,9 +11,7 @@ Adam Ragusea's Bolognese Sauce. Typing it up from the video so I can try it
 * 1 bottle white wine
 * 3 28 oz cans crushed tomatoes (high quality)
 * big spoonful (2-4 tablespoons?) better than bouillon
-* 1T Basil
-* 1T Parsley
-* 1T Orageno
+* 1T ea Basil, Parsley, Orageno
 * <1T Thyme
 * Garlic powder
 * Pepper

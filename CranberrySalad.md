@@ -1,4 +1,4 @@
-# Apricot Jello Salad
+# Cranberry Salad
 A Thanksgiving staple, this cranberry-centric fruit salad excells as a fresh and tart foil to an otherwise rich, savory meal.
 
 ## Ingredients

@@ -7,9 +7,9 @@ A Thanksgiving staple, this cranberry-centric fruit salad excells as a fresh and
 - 1 large orange, peeled, chopped, and seeded
 - 1 1" piece of orange peel
 - 1 cup sugar
-- 2 0.6oz packages sugar-free cherry gelatin
+- 2 0.6oz packages sugar-free cranberry gelatin (cherry or strawberry may be substituted)
 - 2 cups boiling water
-- 1 20oz can crushed unsweetened pineapple, undrained
+- 1 20oz can crushed unsweetened pineapple, drained
 
 ## Instructions
-Process cranberries, apple, orange, orange peel, and sugar in food processor. Dissolve gelatin in boiling water. Stir in processed fruit and pineapple. Pour into 12"x9" dish or 3 qt. serving bowl. Chill until set, about 2-3 hours.
+Process cranberries, apple, orange, orange peel, and sugar in food processor. (Optionally, set aside some of the cranberries before processing, and add them whole to the fruit mixture.) Dissolve gelatin in boiling water. Drain pineapple, then add cold water to pineapple until the total volume is ~2 cups. Combine the pineapple water and gelatin, then stir in the fruit mixture. Pour into 12"x9" dish or 3 qt. serving bowl. Chill until set, about 2-3 hours.

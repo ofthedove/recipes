@@ -26,7 +26,7 @@ These items tend to get made anytime there's a family gathering
 * Marshmallow Fruit Salad - This isn't always there, but I want the recipe
 * Pumpkin Pie - Need Recipe
 * Pecan Pie - Need Recipe
-* Chocolate Chip Pie - Have the recipe I think, need to find it
+* [Chocolate Chip Pie](ChocolateChipPie.md)
 
 ### Christmas
 * [Night Before Christmas Coffee Cake](NightBeforeChristmasCoffeeCake.md)

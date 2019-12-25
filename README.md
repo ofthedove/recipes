@@ -12,6 +12,9 @@ These items tend to get made anytime there's a family gathering
 * [Bourbon Cheese](BourbonCheese.md)
 * [Chex Mix](ChexMix.md)
 
+### Easter
+* [Apricot Jello Salad](ApricotJelloSalad.md)
+
 ### Thanksgiving
 * Turkey - No recipe, there's lots of ways to cook a turkey, I'm not super attached to a particular method
 * Gravy - I don't know if I'll do a recipe, gravy is gravy
@@ -25,8 +28,10 @@ These items tend to get made anytime there's a family gathering
 * Pecan Pie - Need Recipe
 * Chocolate Chip Pie - Have the recipe I think, need to find it
 
-### Easter
-* [Apricot Jello Salad](ApricotJelloSalad.md)
+### Christmas
+* [Night Before Christmas Coffee Cake](NightBeforeChristmasCoffeeCake.md)
+* Breakfast Casserole
+* [Snowball Cookies](Snowballs.md)
 
 ## By YouTuber
 ### Babish ([channel](https://www.youtube.com/user/bgfilms))

@@ -13,7 +13,7 @@ Note: Pudding mix must be cook and serve. Instant pudding does not work. If butt
 
 ## Instructions
 ### Night Before
-Place frozen rolls in a well greased bundt pan. Mix pudding, brown sugar and cinnamon and sprinkle this mixture over rolls. Pour melted butter over all and sprinkle pecans on top. Put cake in the oven before going to bed.
+Place frozen rolls in a well greased 9x13 casserole pan. Mix pudding, brown sugar and cinnamon and sprinkle this mixture over rolls. Pour melted butter over all and sprinkle pecans on top. Put cake in refrigerator before going to bed.
 
 ### Morning Of
-Bake at 325 for 25 minutes, then turn out onto a large platter.
+Remove from refrigerator and allow to rise for an hour or two before baking. Bake at 325 for 25 minutes, then flip and bake another five minutes to ensure the bottom is fully done. Return to right-side-up orientation and serve on a large platter.

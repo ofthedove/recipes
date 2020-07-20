@@ -36,6 +36,7 @@ These items tend to get made anytime there's a family gathering
 ## By YouTuber
 ### Babish ([channel](https://www.youtube.com/user/bgfilms))
 * [Pancakes](pancakes.md)
+* [Classic Pancakes](PancakesClassic.md)
 * [Red Sauce](RedSauce.md)
 
 ### Adam Ragusea ([channel](https://www.youtube.com/channel/UC9_p50tH3WmMslWRWKnM7dQ))

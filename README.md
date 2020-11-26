@@ -21,7 +21,7 @@ These items tend to get made anytime there's a family gathering
 * Dressing - Need Recipe
 * Potatoes - May make a potato mega-recipe for all the different kinds of potato. This meal gets mashed
 * Cream Corn - Need Recipe (We don't always do this one, but I really like it)
-* Sweet Potato Casserole - Need Recipe
+* [Sweet Potato Casserole](SweetPotatoCasserole.md)
 * [Cranberry Salad](CranberrySalad.md)
 * Marshmallow Fruit Salad - This isn't always there, but I want the recipe
 * Pumpkin Pie - Need Recipe

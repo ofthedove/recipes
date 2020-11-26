@@ -31,7 +31,7 @@ If braising, cook until short ribs offer no resistence to a pairing knife and ar
 
 While braising, wash and cut potatoes and boil until tender. Add butter and milk/cream to achieve a smooth consistency. Add cheese such that it melts evenly into the potatoes. Salt and pepper to taste.
 
-Remove short ribs and set aside. Strain solids from beef broth, retaining broth. Return broth to pan and reduce by approx 1/2. Remove bones and connective tissue from short ribs. Shred short rib meat.
+Remove short ribs and set aside. Strain solids from beef broth, retaining broth. (Optionally skim fat from broth.) Return broth to pan and reduce by approx 1/2. Remove bones and connective tissue from short ribs. Shred short rib meat.
 
 Once broth has reduced, in a seperate bowl combine cornstarch with cold water. Slowly add corstarch mixture to broth until broth thickens to gravy. (Recall that gravy will thicken as it cools.) Salt and pepper to taste.
 

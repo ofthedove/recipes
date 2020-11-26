@@ -8,6 +8,7 @@ This incredibly chocolatey, rich pie is my favorite pie, and a great choice for 
 * 1/2 cup granulated sugar
 * 1/2 cup brown sugar
 * 3/4 cup butter, softened
+* 1 cup chocolate chips
 * 1 cup chopped nuts
 
 ## Instructions

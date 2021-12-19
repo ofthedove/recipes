@@ -36,4 +36,3 @@ This recipe is from B. Dylan Hollis on Tik Tok. It uses more accessable ingredie
 ## Instructions
 * Add extract to milk. Then slowly add the powdered sugar until a firm dough forms. Roll out on parch paper, cut discs, freeze until firm (~20 minutes)
 * Carefully dip into melted choc & shortening, then slide onto parchment to cool to room temp before refrigerating!
-* 

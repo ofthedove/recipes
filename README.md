@@ -11,6 +11,7 @@ Quick-link to a document in the repo with links to things I want to make/add. I'
 These items tend to get made anytime there's a family gathering
 * [Bourbon Cheese](BourbonCheese.md)
 * [Chex Mix](ChexMix.md)
+* [Sausage Balls](SausageBalls.md)
 
 ### Easter
 * [Apricot Jello Salad](ApricotJelloSalad.md)
@@ -32,6 +33,12 @@ These items tend to get made anytime there's a family gathering
 * [Night Before Christmas Coffee Cake](NightBeforeChristmasCoffeeCake.md)
 * Breakfast Casserole
 * [Snowball Cookies](Snowballs.md)
+* [Chipped Beef Dip](ChippedBeefDip.md)
+* Bacon wrapped smokies
+* Chocolate Chip Cookies
+* Sugar Cookies
+* [Pecan Tassies](PecanTassies.md)
+* [Potato Candy](PotatoCandy.md)
 
 ## By YouTuber
 ### Babish ([channel](https://www.youtube.com/user/bgfilms))

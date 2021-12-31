@@ -30,15 +30,26 @@ These items tend to get made anytime there's a family gathering
 * [Chocolate Chip Pie](ChocolateChipPie.md)
 
 ### Christmas
-* [Night Before Christmas Coffee Cake](NightBeforeChristmasCoffeeCake.md)
-* Breakfast Casserole
-* [Snowball Cookies](Snowballs.md)
+#### Eve
+* [Bourbon Cheese](BourbonCheese.md)
+* [Chex Mix](ChexMix.md)
+* [Sausage Balls](SausageBalls.md)
 * [Chipped Beef Dip](ChippedBeefDip.md)
 * Bacon wrapped smokies
+* [Snowball Cookies](Snowballs.md)
 * Chocolate Chip Cookies
 * Sugar Cookies
 * [Pecan Tassies](PecanTassies.md)
 * [Potato Candy](PotatoCandy.md)
+#### Morning
+* [Night Before Christmas Coffee Cake](NightBeforeChristmasCoffeeCake.md)
+* Breakfast Casserole
+#### Dinner
+* Ham (Cumberland Gap)
+* Macaroni and Cheese
+* Hashbrown Casserole
+* Veggies (misc)
+* Bread (likely rolls)
 
 ## By YouTuber
 ### Babish ([channel](https://www.youtube.com/user/bgfilms))

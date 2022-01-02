@@ -35,7 +35,7 @@ These items tend to get made anytime there's a family gathering
 * [Chex Mix](ChexMix.md)
 * [Sausage Balls](SausageBalls.md)
 * [Chipped Beef Dip](ChippedBeefDip.md)
-* Bacon wrapped smokies
+* [Bacon wrapped smokies](BaconWrappedSmokies.md)
 * [Snowball Cookies](Snowballs.md)
 * Chocolate Chip Cookies
 * Sugar Cookies

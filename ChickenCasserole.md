@@ -19,6 +19,10 @@ Mom's famous chicken casserole recipe. The recipe she sent me calls it "Hot Chic
 - 2 cans (2.8 oz each) french-fried onions
 
 ## Instructions
-Place chicken in a dutch oven and cover with water; add bay leaves. Bring to a boil. Cook, uncovered, until juices run clear. Remove chicken and cut into 1/2-in cubes; place in a large bowl. Add the next 11 ingredients. Transfer to a 13-in x 9-in
+Place chicken in a dutch oven and cover with water; add bay leaves. Bring to a boil. Cook, uncovered, until juices run clear.
 
-Note: That's all of the recipe Mom sent me. You can probably figure the rest out on your own though. Maybe after I make it I'll come back and update this. Maybe.
+Remove chicken and cut into 1/2-in cubes; place in a large bowl. Add the next 11 ingredients.
+
+Transfer to a 13-in x 9-in x 2-in baking dish (dish will be full). Sprinkle with cheese and onions.
+
+Bake, uncovered, at 350F for 30 minutes or until heated through

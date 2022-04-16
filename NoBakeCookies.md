@@ -4,14 +4,14 @@ I don't think there's much variation in recipes for no bake cookies, but this is
 From https://www.foodnetwork.com/recipes/food-network-kitchen/peanut-butter-chocolate-no-bake-cookies-recipe-2015085
 
 ## Ingredents
-2 C Sugar
-1/2 C Milk
-1 Stick Butter
-1/4 C Cocoa Powder
-3 C Old-Fashioned Oats
-1 C Peanut Butter
-1 Tb Vanilla
-1 Pinch Kosher Salt
+- 2 C Sugar
+- 1/2 C Milk
+- 1 Stick Butter
+- 1/4 C Cocoa Powder
+- 3 C Old-Fashioned Oats
+- 1 C Peanut Butter
+- 1 Tb Vanilla
+- 1 Pinch Kosher Salt
 
 ## Instructions
 Prepare parchment paper on a baking sheet

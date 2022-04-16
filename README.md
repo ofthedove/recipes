@@ -9,6 +9,12 @@ Quick-link to a document in the repo with links to things I want to make/add. I'
 ## By Type
 ### Meal
 * [Red Beans and Rice](RedBeansAndRice.md)
+* [Carnitas](Carnitas.md)
+* [Chicken Casserole](ChickenCasserole.md)
+* [Jambalaya](Jambalaya.md)
+* [Moist Garlic Chicken](MoistGarlicChicken.md)
+* [Red Sauce](RedSauce.md)
+* [Short Rib Cottage Pie](ShortRibCottagePie.md)
 
 ### Snacks and Sides
 * [Pimento Cheese](PimentoCheese.md)

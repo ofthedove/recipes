@@ -6,6 +6,16 @@ I keep finding/borrowing recipes, making them, and then losing them. To put an e
 ## [Links](Links.md)
 Quick-link to a document in the repo with links to things I want to make/add. I'm working on moving these to issues on a project board.
 
+## By Type
+### Meal
+* [Red Beans and Rice](RedBeansAndRice.md)
+
+### Snacks and Sides
+* [Pimento Cheese](PimentoCheeese.md)
+
+### Dessert
+* [No Bake Cookies](NoBakeCookies.md)
+
 ## By Occaion
 ### All Occasions
 These items tend to get made anytime there's a family gathering

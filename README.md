@@ -11,7 +11,7 @@ Quick-link to a document in the repo with links to things I want to make/add. I'
 * [Red Beans and Rice](RedBeansAndRice.md)
 
 ### Snacks and Sides
-* [Pimento Cheese](PimentoCheeese.md)
+* [Pimento Cheese](PimentoCheese.md)
 
 ### Dessert
 * [No Bake Cookies](NoBakeCookies.md)

@@ -1,5 +1,5 @@
 # Creamy Lemon Dessert
-Nanny's made this recipe for longer than I've been alive.
+Nanny's 9and now Mom) have made this recipe for longer than I've been alive.
 
 ## Ingredients
 ### Crust
@@ -27,4 +27,4 @@ Beat the cream cheese and powdered sugar until very creamy. Fold in a carton of 
 
 Beat the pudding and milk until it's pudding. Spread pudding over cream cheese layer
 
-Top with cool whip and chopped pecans
+Top with cool whip and chopped pecans. (Optionally toast pecans)

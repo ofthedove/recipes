@@ -1,4 +1,6 @@
 ---
+layout: default
+title: Recipes Home
 ---
 
 Welcome to My Home Page

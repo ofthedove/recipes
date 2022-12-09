@@ -16,3 +16,10 @@ You can find the source code for Jekyll at GitHub:
 
 
 [jekyll-organization]: https://github.com/jekyll
+
+These links have been helpful from a technical perspective:
+jekyllrb.com
+https://github.com/jekyll/minima
+https://mademistakes.com/mastering-jekyll/site-url-baseurl/
+https://blog.webjeda.com/instant-jekyll-search/
+https://stackoverflow.com/questions/20101409/how-can-i-insert-a-print-button-that-prints-a-form-in-a-webpage

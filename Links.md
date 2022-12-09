@@ -1,3 +1,7 @@
+---
+title: Links
+layout: page
+---
 # Links
 Links to things that will probably end up in this repo, but I either haven't made yet or havent typed up yet.
 

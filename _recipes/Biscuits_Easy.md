@@ -1,6 +1,6 @@
 ---
 layout: recipe
-name: Biscuits (Easy)
+title: Biscuits (Easy)
 ---
 
 These biscuits are dead easy and can be made in any quantity, even just one biscuit!

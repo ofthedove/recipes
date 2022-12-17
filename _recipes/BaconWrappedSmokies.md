@@ -1,6 +1,6 @@
 ---
 layout: recipe
-name: Bacon Wrapped Smokies
+title: Bacon Wrapped Smokies
 ---
 
 A fantastic treat usually reserved for Christmas and New Years

@@ -1,8 +1,8 @@
 ---
 layout: recipe
+name: Apricot Jello Salad
 ---
 
-# Apricot Jello Salad
 A classic Easter treat, this salad is sweet and fruity and serves as a fine side dish or dessert.
 
 ## Ingredients

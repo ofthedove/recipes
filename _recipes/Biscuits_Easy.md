@@ -1,8 +1,8 @@
 ---
 layout: recipe
+name: Biscuits (Easy)
 ---
 
-# Biscuits (Easy)
 These biscuits are dead easy and can be made in any quantity, even just one biscuit!
 I hear they're really easy to modify too, such as by adding cheese or sugar, but I haven't tried myself yet.
 

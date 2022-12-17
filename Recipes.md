@@ -6,7 +6,7 @@ permalink: /recipes/
 
 {% for recipe in site.recipes %}
   <h2>
-    <a href="{{ recipe.url }}">
+    <a href="{{ recipe.url | relative_url }}">
       {{ recipe.name }}
     </a>
   </h2>

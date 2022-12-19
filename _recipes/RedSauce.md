@@ -1,4 +1,8 @@
-# Red Sauce
+---
+layout: recipe
+title: Red Sauce
+---
+
 This is the red sauce Babish makes in the Sauces episode of Basics with Babish. I made it with with sausage and served it on spaghetti, it went really well.
 
 ## Ingredients

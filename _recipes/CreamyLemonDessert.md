@@ -1,5 +1,9 @@
-# Creamy Lemon Dessert
-Nanny's 9and now Mom) have made this recipe for longer than I've been alive.
+---
+layout: recipe
+title: Creamy Lemon Dessert
+---
+
+Nanny's (and now Mom) have made this recipe for longer than I've been alive.
 
 ## Ingredients
 ### Crust

@@ -1,4 +1,8 @@
-# Sausage Balls
+---
+layout: recipe
+title: Sausage Balls
+---
+
 A classic snack for every occasion
 
 ## Ingredients

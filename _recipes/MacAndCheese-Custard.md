@@ -1,4 +1,8 @@
-# Macaroni and Cheese
+---
+layout: recipe
+title: Macaroni and Cheese
+---
+
 This is the Serious Eats Food Lab macaroni and cheese from here: https://www.seriouseats.com/recipes/2015/10/the-food-labs-ultra-gooey-stovetop-mac-cheese.html
 It's simpler than a bechamel mac and cheese, but not quite as simple as the one-pot recipies from food lab and food wishes
 I made this one for Trigger Tuesday one time and it worked well.

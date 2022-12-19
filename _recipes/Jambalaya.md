@@ -1,4 +1,7 @@
-# Jambalaya
+---
+layout: recipe
+title: Jambalaya
+---
 
 ## Ingredients
 - 1 1/2 lb boneless chicken breasts, cut up

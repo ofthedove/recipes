@@ -1,4 +1,8 @@
-# Sweet Potato Casserole
+---
+layout: recipe
+title: Sweet Potato Casserole
+---
+
 A Thanksgiving necessity
 
 ## Ingredients

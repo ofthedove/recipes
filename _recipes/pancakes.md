@@ -1,4 +1,8 @@
-# Pancakes
+---
+layout: recipe
+title: Pancakes
+---
+
 Babish's Recipe for Pancakes. From his Twin Peaks video, copied crom [here](https://www.bingingwithbabish.com/recipes/2017/5/18/buttermilk-pancakes-inspired-by-twin-peaks?rq=pancake) for printing. Made these once but didn't do it quite right, I was in a rush. It was alright, I'd like to try again with more time.
 
 ## Ingredients

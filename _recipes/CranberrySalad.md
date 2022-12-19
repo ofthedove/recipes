@@ -1,4 +1,8 @@
-# Cranberry Salad
+---
+layout: recipe
+title: Cranberry Salad
+---
+
 A Thanksgiving staple, this cranberry-centric fruit salad excells as a fresh and tart foil to an otherwise rich, savory meal.
 
 ## Ingredients

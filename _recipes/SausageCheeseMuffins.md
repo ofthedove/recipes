@@ -1,4 +1,8 @@
-# Sausage Cheese Muffins
+---
+layout: recipe
+title: Sausage Cheese Muffins
+---
+
 This classic savory hand-held breakfast treat is a favorite in our family. Often made around the holidays, it's a great grab-and-go breakfast any time. This is the recipe from the Taste of Home website. We're not sure if this is the exact recipe we've always used, but it's close enough.
 
 ## Ingredients

@@ -1,4 +1,7 @@
-# Wafel
+---
+layout: recipe
+title: Wafel
+---
 
 ## Ingredients
 - 2 Eggs

@@ -1,4 +1,8 @@
-# Snowballs
+---
+layout: recipe
+title: Snowballs
+---
+
 These are a holiday tradition. The recipe comes from "So Quick with New Bisquick" where they're called Pecan Tea Cookies. This cookbook, published in 1967, is a real classic in our house, even if it is a bit dated.
 
 ## Ingredients

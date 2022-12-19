@@ -1,4 +1,8 @@
-# Cooked Icing
+---
+layout: recipe
+title: Cooked Icing
+---
+
 This classic tops every properly prepared red velvet cake
 
 ## Ingredients

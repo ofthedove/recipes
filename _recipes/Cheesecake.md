@@ -1,8 +1,8 @@
 ---
 layout: recipe
+title: Cheesecake
 ---
 
-# Cheesecake
 Alton Brown's cheesecake recipe. Making this for Mom's 50th
 
 ## Ingredients

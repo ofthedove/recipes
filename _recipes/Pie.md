@@ -1,4 +1,7 @@
-# Pie
+---
+layout: recipe
+title: Pie
+---
 
 ## Crust
 This pie crust recipe is amazing don't use anything else: https://www.seriouseats.com/easy-pie-dough-recipe

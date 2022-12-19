@@ -1,8 +1,8 @@
 ---
 layout: recipe
+title: Chex Mix
 ---
 
-# Chex Mix
 This is Mom's famous chex mix. It needs no further introduction
 
 ## Ingredients

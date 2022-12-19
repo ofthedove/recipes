@@ -1,4 +1,8 @@
-# Classic Pancakes
+---
+layout: recipe
+title: Classic Pancakes
+---
+
 Babish's classic pancake recipe https://www.bingingwithbabish.com/recipes/classicpancakes
 
 ## Ingredients

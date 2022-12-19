@@ -1,4 +1,8 @@
-# Short Rib Cottage Pie
+---
+layout: recipe
+title: Short Rib Cottage Pie
+---
+
 This is kinda a combo of the Basics with Babish short rib and cottage pie recipes, with my own twist. We quite like it.
 
 ## Ingredients

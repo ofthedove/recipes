@@ -1,4 +1,8 @@
-# Pecan Tassies
+---
+layout: recipe
+title: Pecan Tassies
+---
+
 A classic holiday treat
 
 ## Ingredients

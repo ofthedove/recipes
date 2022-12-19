@@ -1,4 +1,8 @@
-# Night Before Christmas Coffee Cake
+---
+layout: recipe
+title: Night Before Christmas Coffee Cake
+---
+
 An absolute necessity every Christmas morning.
 
 ## Ingredents

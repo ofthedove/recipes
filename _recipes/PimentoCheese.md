@@ -1,4 +1,8 @@
-# Pimento Cheese
+---
+layout: recipe
+title: Pimento Cheese
+---
+
 Great on a sandwich or with crackers. A perfect accompaniment for chili, but great on it's own too. Makes a fantastic, though somewhat runny grilled cheese.
 
 ## Ingredients

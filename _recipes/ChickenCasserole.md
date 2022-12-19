@@ -1,4 +1,8 @@
-# Chicken Casserole
+---
+layout: recipe
+title: Chicken Casserole
+---
+
 Mom's famous chicken casserole recipe. The recipe she sent me calls it "Hot Chicken Salad". Mom serves it with rice.
 
 ## Ingredients

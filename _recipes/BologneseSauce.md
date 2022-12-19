@@ -1,8 +1,8 @@
 ---
 layout: recipe
+title: Bolognese Sauce
 ---
 
-# Bolognese Sauce
 Adam Ragusea's Bolognese Sauce. Typing it up from the video so I can try it
 
 ## Ingredients

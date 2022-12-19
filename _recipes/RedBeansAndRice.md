@@ -1,4 +1,8 @@
-# Red Beans and Rice
+---
+layout: recipe
+title: Red Beans and Rice
+---
+
 I recently saw red beans and rice on reddit and decided I wanted to make some. It happened that we went to Joel and Rachael's houes the night I was going to make this, so I made it there! (Thia did the prep work for me before we left.) It turned out really well I think.
 
 I was inspired by this Reddit Post:

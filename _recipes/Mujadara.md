@@ -1,4 +1,8 @@
-# Mujadara
+---
+layout: recipe
+title: Mujadara
+---
+
 Found this [online](themediterraneandish.com/mujadara-lentils-and-rice-with-crispy-onions/) and it looks interesting.
 
 I've made it once now. It's alright, nothing amazing. It needed a fair bit of salt, and it really needed to be served with Greek Yogurt. The yogurt makes it. I didn't do fried onions or parsley for garnish, I should try that. I also think it might benefit from a little corriander.

@@ -1,4 +1,7 @@
-# Potato Candy
+---
+layout: recipe
+title: Potato Candy
+---
 
 ## Ingredients
 - 1 small Potato

@@ -1,4 +1,8 @@
-# Chipped Beef Dip
+---
+layout: recipe
+title: Chipped Beef Dip
+---
+
 I kinda got this from a website, but the website was pretty awful so I don't feel like linking it here. Also I adapted it, cause the website tried to overcomplicate it and make it pretentious.
 
 ## Ingredients

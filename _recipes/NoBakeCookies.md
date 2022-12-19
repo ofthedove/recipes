@@ -1,4 +1,8 @@
-# No Bake Cookies
+---
+layout: recipe
+title: No Bake Cookies
+---
+
 I don't think there's much variation in recipes for no bake cookies, but this is one I used recently. It has peanut butter in it!
 
 From https://www.foodnetwork.com/recipes/food-network-kitchen/peanut-butter-chocolate-no-bake-cookies-recipe-2015085

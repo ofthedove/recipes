@@ -1,0 +1,10 @@
+@print {
+   @page :footer {
+      display: none
+   }
+   
+   @page :header {
+      display: none
+   }
+}
+   

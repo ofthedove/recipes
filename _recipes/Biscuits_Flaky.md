@@ -3,7 +3,6 @@ layout: recipe
 title: Biscuits (Flaky)
 ---
 
-
 These biscuits are a bit more work than my easy biscuits, but are very rewarding.
 
 ## Ingredients

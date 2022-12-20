@@ -3,6 +3,8 @@ layout: recipe
 title: Potato Candy
 ---
 
+It may sound crazy, but it's super tasty! No one really knows for sure where it came from but it seems to be popular mostly only in and around the Appalachian region. Our family has been making it for as long as I can remember.
+
 ## Ingredients
 - 1 small Potato
 - Powdered Sugar

@@ -2,6 +2,7 @@
 layout: recipe
 title: Jambalaya
 ---
+No seafood here! It may not be "authentic" but it sure is tasty!
 
 ## Ingredients
 - 1 1/2 lb boneless chicken breasts, cut up

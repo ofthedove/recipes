@@ -1,9 +1,5 @@
 ---
 layout: recipe
-title: Title
----
----
-layout: recipe
 title: Biscuits (Easy)
 ---
 

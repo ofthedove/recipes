@@ -1,10 +1,15 @@
-@print {
-   @page :footer {
-      display: none
+@media print
+{
+   header {
+      display:none;
+   }
+
+   footer {
+      display:none;
    }
    
-   @page :header {
-      display: none
+   .pagebreak {
+      break-before: always;
    }
 }
    

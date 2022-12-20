@@ -1,10 +1,14 @@
 @media print
 {
-   header {
+   .site-header {
       display:none;
    }
 
    footer {
+      display:none;
+   }
+
+   .noprint {
       display:none;
    }
    

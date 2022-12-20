@@ -4,11 +4,13 @@ title: Recipes
 permalink: /recipes/
 ---
 
+## Full List
+
 {% for recipe in site.recipes %}
-  <h2>
+  <h3>
     <a href="{{ recipe.url | relative_url }}">
       {{ recipe.title }}
     </a>
-  </h2>
-  <p>{{ recipe.content | markdownify }}</p>
+  </h3>
+  <p>{{ recipe.excerpt | markdownify }}</p>
 {% endfor %}

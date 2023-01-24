@@ -21,7 +21,7 @@ Quick-link to a document in the repo with links to things I want to make/add. I'
 * [Moist Garlic Chicken](MoistGarlicChicken.md)
 * [Red Sauce](RedSauce.md)
 * [Short Rib Cottage Pie](ShortRibCottagePie.md)
-* Meatloaf: [Mom's]({{ recipes/MeatloafMom.md | relative_url }}) or [Glazed]({{ recipes/MeatloafGlazed.md | relative_url }}) or [Ragusea]({{ recipes/MeatloafRagusea.md | relative_url }})
+* Meatloaf: [Mom's]({{ MeatloafMom.md | relative_url }}) or [Glazed]({{ recipes/MeatloafGlazed.md }}) or [Ragusea]({{ recipes/MeatloafRagusea.md }})
 
 #### Snacks and Sides
 * [Pimento Cheese](PimentoCheese.md)

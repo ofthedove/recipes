@@ -7,19 +7,19 @@ I've never actually made this, but I would like to try it some time. Seems like 
 Source Vid: https://www.youtube.com/watch?v=m6IrjnZMu9E
 
 ## Ingredients
-* 2 lbs (1 kg) ground meat, I like beef chuck + lamb
-* 1/2-1 (50-100g) cup bread crumbs
-* 4 carrots
-* 1 onion
-* 2 egg yolks (or one whole egg)
-* fresh rosemary and/or thyme
-* milk
-* garlic powder
-* salt
-* pepper
-* oil
-* ketchup
-* Worcestershire sauce
+- 2 lbs (1 kg) ground meat, I like beef chuck + lamb
+- 1/2-1 (50-100g) cup bread crumbs
+- 4 carrots
+- 1 onion
+- 2 egg yolks (or one whole egg)
+- fresh rosemary and/or thyme
+- milk
+- garlic powder
+- salt
+- pepper
+- oil
+- ketchup
+- Worcestershire sauce
 
 ## Instructions
 Grate the carrots and onion into an oven-safe pan, ideally non-stick. Add some oil and cook the vegetable on high heat until softened, about 8 minutes. Remove the pan from the heat. Put in the breadcrumbs and stir in just as much milk as they will absorb.

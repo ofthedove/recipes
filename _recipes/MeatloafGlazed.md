@@ -2,7 +2,6 @@
 layout: recipe
 title: Meatloaf - Glazed
 ---
-
 This is NOT Mom's meatloaf, but it's good. Firmer, didn't fall apart, but wasn't dry either.
 
 I made one when Sara and Allison were over and it turned out really well.

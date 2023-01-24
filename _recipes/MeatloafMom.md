@@ -2,7 +2,6 @@
 layout: recipe
 title: Meatloaf - Mom's Classic
 ---
-
 Mom's classic meatloaf. It's been a while since I made this so I'm guessing on a lot of this.
 
 ## Ingredients

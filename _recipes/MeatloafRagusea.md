@@ -4,7 +4,7 @@ title: Meatloaf - Adam Ragusea
 ---
 I've never actually made this, but I would like to try it some time. Seems like a good recipe, lots of veggies which I've not tried before
 
-Source Vid: https://www.youtube.com/watch?v=m6IrjnZMu9E
+Source Vid: [youtube.com/watch?v=m6IrjnZMu9E](https://www.youtube.com/watch?v=m6IrjnZMu9E)
 
 ## Ingredients
 - 2 lbs (1 kg) ground meat, I like beef chuck + lamb

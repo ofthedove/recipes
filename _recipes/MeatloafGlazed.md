@@ -12,24 +12,24 @@ I really liked the sauce, it was just a homemade BBQ but it was good. I tried to
 
 I did sub hot Italian sausage instead of ground pork, which I liked, and I didn't make the gravy, just ran out of time, but I'd like to try it some time.
 
-I learned this recipe from this YouTube video: [youtube.com/watch?v=3eGyG2hLmy8](https://www.youtube.com/watch?v=3eGyG2hLmy8)
+I learned this recipe from this YouTube video from the channel Brian Lagerstrom: [youtube.com/watch?v=3eGyG2hLmy8](https://www.youtube.com/watch?v=3eGyG2hLmy8)
 
 ## Meatloaf
 ### Ingredients
-* Olive oil 
-* 150g or 1 large onion (small diced)
-* Salt
-* 75g or 1 1/2c panko breadcrumbs 
-* 85g or 1/3c buttermilk
-* 450g or 1lb 90/10 ground beef
-* 450g or 1lb 90/10 ground pork 
-* 2 eggs + 1 yolk
-* 3 cloves garlic, finely minced
-* 15g or 1Tbsp worcestershire 
-* 15g or 1Tbsp dijon mustard
-* 2g 1 1/4tsp poultry seasoning 
-* 3g or 1 1/3tsp black pepper 
-* 12g or 2tsp salt 
+- Olive oil 
+- 150g or 1 large onion (small diced)
+- Salt
+- 75g or 1 1/2c panko breadcrumbs 
+- 85g or 1/3c buttermilk
+- 450g or 1lb 90/10 ground beef
+- 450g or 1lb 90/10 ground pork 
+- 2 eggs + 1 yolk
+- 3 cloves garlic, finely minced
+- 15g or 1Tbsp worcestershire 
+- 15g or 1Tbsp dijon mustard
+- 2g 1 1/4tsp poultry seasoning 
+- 3g or 1 1/3tsp black pepper 
+- 12g or 2tsp salt 
 
 ### Instructions
 Preheat medium saute pan over medium, add a long squeeze of olive oil, followed by onions and a pinch of salt. Stir and cook until softened, about 5min. Move onions to a bowl and set aside. 
@@ -48,24 +48,24 @@ Glaze a third/final time then load into a 325F/160C to bake for 25-35min or unti
 
 ## Glaze
 ### Ingredients
-* 60g or 1/3c brown sugar 
-* 40g 2 2/3Tbsp cider vinegar 
-* 10g or about 1/3Tbsp worcestershire
-* 20g 1 1/4Tbsp sriracha 
-* 300g or 1 1/4c ketchup 
+- 60g or 1/3c brown sugar 
+- 40g 2 2/3Tbsp cider vinegar 
+- 10g or about 1/3Tbsp worcestershire
+- 20g 1 1/4Tbsp sriracha 
+- 300g or 1 1/4c ketchup 
 
 ### Instructions
 Add ingredients to small sauce pot and stir. Once meatloaf has been glazed three times and is baking (see recipe above), place over medium low heat to reduce by half, about 3-4min Stir often to prevent burning. 
 
 ## Onion Gravy
 ### Ingredients
-* 50g or 3 1/2Tbsp butter  
-* 100g or 2c onion, medium diced 
-* salt
-* 25g or 3 1/4Tbsp AP flour 
-* 450g or 1 ¾-2c beef stock 
-* 10g or 1Tbsp beef flavored better than bouillon 
-* 5g or 1tsp soy sauce 
+- 50g or 3 1/2Tbsp butter  
+- 100g or 2c onion, medium diced 
+- salt
+- 25g or 3 1/4Tbsp AP flour 
+- 450g or 1 ¾-2c beef stock 
+- 10g or 1Tbsp beef flavored better than bouillon 
+- 5g or 1tsp soy sauce 
 
 ### Instructions
 Preheat saute pan over medium heat. Add butter, onion, and a pinch of salt. Sweat for about 5min to soften. Add flour and whisk to combine and cook for 3-5min. Whisk in 100g of the beef stock. When stirred in and thickening, whisk in remaining 350g stock. When simmering, add bouillon past and soy sauce. Simmer for about 5min or until thickened and onions are fully softened. 

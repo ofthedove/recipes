@@ -14,30 +14,30 @@ Quick-link to a document in the repo with links to things I want to make/add. I'
 
 ### By Type
 #### Meal
-* [Red Beans and Rice](RedBeansAndRice.md)
-* [Carnitas](Carnitas.md)
-* [Chicken Casserole](ChickenCasserole.md)
-* [Jambalaya](Jambalaya.md)
-* [Moist Garlic Chicken](MoistGarlicChicken.md)
-* [Red Sauce](RedSauce.md)
-* [Short Rib Cottage Pie](ShortRibCottagePie.md)
-* Meatloaf: [Mom's]({{ MeatloafMom.md | relative_url }}) or [Glazed]({% link _recipes/MeatloafGlazed.md %}) or [Ragusea]({{ site.baseurl }}{% link _recipes/MeatloafRagusea.md %})
+* [Red Beans and Rice]({% link _recipes/RedBeansAndRice.md %})
+* [Carnitas]({% link _recipes/Carnitas.md %})
+* [Chicken Casserole]({% link _recipes/ChickenCasserole.md %})
+* [Jambalaya]({% link _recipes/Jambalaya.md %})
+* [Moist Garlic Chicken]({% link _recipes/MoistGarlicChicken.md %})
+* [Red Sauce]({% link _recipes/RedSauce.md %})
+* [Short Rib Cottage Pie]({% link _recipes/ShortRibCottagePie.md %})
+* Meatloaf: [Mom's]({% link _recipes/MeatloafMom.md %}) or [Glazed]({% link _recipes/MeatloafGlazed.md %}) or [Ragusea]({% link _recipes/MeatloafRagusea.md %})
 
 #### Snacks and Sides
-* [Pimento Cheese](PimentoCheese.md)
+* [Pimento Cheese]({% link _recipes/PimentoCheese.md %})
 
 #### Dessert
-* [No Bake Cookies](NoBakeCookies.md)
+* [No Bake Cookies]({% link _recipes/NoBakeCookies.md %})
 
 ### By Occaion
 #### All Occasions
 These items tend to get made anytime there's a family gathering
-* [Bourbon Cheese](BourbonCheese.md)
-* [Chex Mix](ChexMix.md)
-* [Sausage Balls](SausageBalls.md)
+* [Bourbon Cheese]({% link _recipes/BourbonCheese.md %})
+* [Chex Mix]({% link _recipes/ChexMix.md %})
+* [Sausage Balls]({% link _recipes/SausageBalls.md %})
 
 #### Easter
-* [Apricot Jello Salad](ApricotJelloSalad.md)
+* [Apricot Jello Salad]({% link _recipes/ApricotJelloSalad.md %})
 
 #### Thanksgiving
 * Turkey - No recipe, there's lots of ways to cook a turkey, I'm not super attached to a particular method
@@ -45,27 +45,27 @@ These items tend to get made anytime there's a family gathering
 * Dressing - Need Recipe
 * Potatoes - May make a potato mega-recipe for all the different kinds of potato. This meal gets mashed
 * Cream Corn - Need Recipe (We don't always do this one, but I really like it)
-* [Sweet Potato Casserole](SweetPotatoCasserole.md)
-* [Cranberry Salad](CranberrySalad.md)
+* [Sweet Potato Casserole]({% link _recipes/SweetPotatoCasserole.md %})
+* [Cranberry Salad]({% link _recipes/CranberrySalad.md %})
 * Marshmallow Fruit Salad - This isn't always there, but I want the recipe
 * Pumpkin Pie - Need Recipe
 * Pecan Pie - Need Recipe
-* [Chocolate Chip Pie](ChocolateChipPie.md)
+* [Chocolate Chip Pie]({% link _recipes/ChocolateChipPie.md %})
 
 #### Christmas
 ##### Eve
-* [Bourbon Cheese](BourbonCheese.md)
-* [Chex Mix](ChexMix.md)
-* [Sausage Balls](SausageBalls.md)
-* [Chipped Beef Dip](ChippedBeefDip.md)
-* [Bacon wrapped smokies](BaconWrappedSmokies.md)
-* [Snowball Cookies](Snowballs.md)
+* [Bourbon Cheese]({% link _recipes/BourbonCheese.md %})
+* [Chex Mix]({% link _recipes/ChexMix.md %})
+* [Sausage Balls]({% link _recipes/SausageBalls.md %})
+* [Chipped Beef Dip]({% link _recipes/ChippedBeefDip.md %})
+* [Bacon wrapped smokies]({% link _recipes/BaconWrappedSmokies.md %})
+* [Snowball Cookies]({% link _recipes/Snowballs.md %})
 * Chocolate Chip Cookies
 * Sugar Cookies
-* [Pecan Tassies](PecanTassies.md)
-* [Potato Candy](PotatoCandy.md)
+* [Pecan Tassies]({% link _recipes/PecanTassies.md %})
+* [Potato Candy]({% link _recipes/PotatoCandy.md %})
 ##### Morning
-* [Night Before Christmas Coffee Cake](NightBeforeChristmasCoffeeCake.md)
+* [Night Before Christmas Coffee Cake]({% link _recipes/NightBeforeChristmasCoffeeCake.md %})
 * Breakfast Casserole
 ##### Dinner
 * Ham (Cumberland Gap)
@@ -76,10 +76,10 @@ These items tend to get made anytime there's a family gathering
 
 ### By YouTuber
 #### Babish ([channel](https://www.youtube.com/user/bgfilms))
-* [Pancakes](pancakes.md)
-* [Classic Pancakes](PancakesClassic.md)
-* [Red Sauce](RedSauce.md)
+* [Pancakes]({% link _recipes/pancakes.md %})
+* [Classic Pancakes]({% link _recipes/PancakesClassic.md %})
+* [Red Sauce]({% link _recipes/RedSauce.md %})
 
 #### Adam Ragusea ([channel](https://www.youtube.com/channel/UC9_p50tH3WmMslWRWKnM7dQ))
-* [Cornbread](cornbread.md)
-* [Bolognese](BologneseSauce.md)
+* [Cornbread]({% link _recipes/cornbread.md %})
+* [Bolognese]({% link _recipes/BologneseSauce.md %})

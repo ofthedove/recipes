@@ -4,13 +4,13 @@ title: Meatloaf - Glazed
 ---
 This is NOT Mom's meatloaf, but it's good. Firmer, didn't fall apart, but wasn't dry either.
 
-I made one when Sara and Allison were over and it turned out really well.
+I made one when Sara and Allison were over and it turned out really well. I also made it for Caleb's birthday 2023 and it was well received.
 
 It held it's shape nicely even when cut, but it wasn't dry. There wasn't much grease in the pan. It was especially good for sandwiches because of how it held together. 
 
 I really liked the sauce, it was just a homemade BBQ but it was good. I tried to be really generous with the sauce but there was still a lot extra that got thrown away, not many people wanted more at the table.
 
-I did sub hot Italian sausage instead of ground pork, which I liked, and I didn't make the gravy, just ran out of time, but I'd like to try it some time.
+I've tried with plain ground pork and with Italian sausage. Both were good. Hot sausage does kinda steal the stage flavor wise. I may try all-beef in the future if it's still cheaper than pork mix.
 
 I learned this recipe from this YouTube video from the channel Brian Lagerstrom: [youtube.com/watch?v=3eGyG2hLmy8](https://www.youtube.com/watch?v=3eGyG2hLmy8)
 

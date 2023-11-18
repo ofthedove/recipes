@@ -40,6 +40,9 @@ These items tend to get made anytime there's a family gathering
 * [Apricot Jello Salad]({% link _recipes/ApricotJelloSalad.md %})
 
 #### Thanksgiving
+
+[Main Page]({% link Thanksgiving.md %})
+
 * Turkey - No recipe, there's lots of ways to cook a turkey, I'm not super attached to a particular method
 * Gravy - I don't know if I'll do a recipe, gravy is gravy
 * Dressing - Need Recipe

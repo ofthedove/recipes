@@ -60,4 +60,4 @@ Place the medium saucepan over medium high heat, stirring, until thick and bubbl
 
 Pour the filling into the pie crust. Immediately spread meringue over the hot filling. Be sure to seal the meringue to the edges, so that it doesn't shrink during baking.
 
-Bake the pie in a 350 degree oven fot 12-15 minutes, just until the meringue is golden. Cool thoroughly, store covered and chilled.
+Bake the pie in a 350 degree oven fot 12-15 minutes, just until the meringue is golden. Cool thoroughly, 4 to 6 hours. Store in the fridge, covered in plastic wrap. Use toothpicks to prevent the plastic wrap from touching meringue directly. Dip knife in water when cutting to avoid sticking. 

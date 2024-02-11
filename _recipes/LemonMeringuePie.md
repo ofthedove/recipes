@@ -5,7 +5,7 @@ title: Lemon Meringue Pie
 
 Mom's classic Lemon Meringue Pie recipe, from the Better Homes and Gardens cookbook.
 
-I've adapted it, adding details from my most recent time making it. It's probably two much detail, I'm afraid I've made it a bit intimidating. I assure you it's really not difficult to make, and it's very tasty!
+I've adapted it, adding details from my most recent time making it. It's probably too much detail, I'm afraid I've made it a bit intimidating. I assure you it's really not difficult to make, and it's very tasty!
 
 ## Ingredients
 
@@ -44,7 +44,7 @@ Preheat the oven to 425. Place a 9 inch pie crust in a 9 inch pie pan. Prick the
 
 In a medium saucepan combine sugar, flour, cornstarch, and a dash of salt. Gradually stir in 1 1/2 cups water. Set aside.
 
-Zest and juice several lemons. The exact number of lemons needed will vary with the size and quality of lemons used. In the most recent preparation, the zest of two lemons and juice of three were used. With zest, more is better, assuming you like a very lemon-y filling. The juice should be measured to 1/3 cup with some precision to avoid affecting the consistency.
+Zest and juice several lemons. The exact number of lemons needed will vary with the size and quality of lemons used. In the most recent preparation, the zest and juice of two lemons were used. With zest, more is better, assuming you like a very lemon-y filling. The juice should be measured to 1/3 cup with some precision to avoid affecting the consistency.
 
 Separate egg whites and yolks, placing the whites in the bowl of a stand mixer and the yolks in a small bowl. Beat the yolks together.
 

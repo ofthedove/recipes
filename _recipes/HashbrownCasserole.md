@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Name
+title: Hashbrown Casserole
 ---
 
 A classic potato side usually enjoyed at Easter, Thanksgiving, and Christmas

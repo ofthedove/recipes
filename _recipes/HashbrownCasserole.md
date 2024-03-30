@@ -3,7 +3,7 @@ layout: recipe
 title: Name
 ---
 
-A classic potato side usually enjoyed at Easter and Christmas
+A classic potato side usually enjoyed at Easter, Thanksgiving, and Christmas
 
 ## Ingredients
 * 1 bag hashbrowns

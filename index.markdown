@@ -38,7 +38,14 @@ These items tend to get made anytime there's a family gathering
 * [Sausage Balls]({% link _recipes/SausageBalls.md %})
 
 #### Easter
+* [Ham]({% link _recipes/Ham.md %}) - Should be Cumberland Gap
+* [Hashbrown Casserole]({% link _recipes/HashbrownCasserole.md %})
+* [Mac-n-Cheese Casserole]({% link _recipes/MacNCheeseCasserole.md %})
 * [Apricot Jello Salad]({% link _recipes/ApricotJelloSalad.md %})
+* Asparagus
+* Corn
+* Dinner Rolls
+* Deviled Eggs
 
 #### Thanksgiving
 
@@ -72,9 +79,9 @@ These items tend to get made anytime there's a family gathering
 * [Night Before Christmas Coffee Cake]({% link _recipes/NightBeforeChristmasCoffeeCake.md %})
 * Breakfast Casserole
 ##### Dinner
-* Ham (Cumberland Gap)
-* Macaroni and Cheese
-* Hashbrown Casserole
+* [Ham]({% link _recipes/Ham.md %}) (Cumberland Gap)
+* [Mac-n-Cheese Casserole]({% link _recipes/MacNCheeseCasserole.md %})
+* [Hashbrown Casserole]({% link _recipes/HashbrownCasserole.md %})
 * Veggies (misc)
 * Bread (likely rolls)
 

@@ -11,7 +11,6 @@ A classic comfort side dish usually enjoyed at Easter, Thanksgiving, and Christm
 - 1 Tb Butter
 - 1 Tb AP Flour
 - Black Pepper
-- Dry Mustard and/or Nutmeg
 - 1 1/4 cup Milk
 - 2 cup Cheese (8oz)
 - Ritz crackers and butter for topping
@@ -24,9 +23,16 @@ Bake, uncovered, in a 350 oven for 25 or 30 min or till bubbly.
 
 ## Notes
 
-- Don't make just one! The amounts here will serve only 4. Tripling the recipe should fill an 9x13 casserole, but quadrupling gives better "round" numbers.
+- Don't make just one! The amounts here will serve only 4. Tripling the recipe should fill a 9x13 casserole, but quadrupling gives better "round" numbers.
 - A blend of American, cheddar, and cream cheese is typically used. Even ratio should work well, but can be adjusted depending on how much is being made.
-- [This recipe from Serious Eats](https://www.seriouseats.com/classic-bechamel-baked-mac-cheese-recipe) is basically the same, with more details and a couple extra suggestoins:
-    - Reserve a portion of the shredded cheese and add it after removing from the heat to get some stretchy-ness in the final casserole
-    - Use panko instead of cracker crumbs for extra crispy goodness
-- Serious Eats also has another version of the recipe using sodium citrate rather than a bechemel, find it [here](https://www.seriouseats.com/sodium-citrate-baked-mac-and-cheese)
+- Try adding dry mustard or nutmeg, or even some hot sauce!
+- [This recipe from Serious Eats](https://www.seriouseats.com/classic-bechamel-baked-mac-cheese-recipe) is similar, but has several differences. A couple of highlights that could easily be applied here:
+    - Reserve a portion of the shredded cheese and add it after removing the sauce from the heat to get some stretchy-ness in the final casserole
+    - Use panko instead of cracker crumbs in the topping for extra crispy goodness
+- Serious Eats also has another version of thier recipe using sodium citrate rather than a bechemel, find it [here](https://www.seriouseats.com/sodium-citrate-baked-mac-and-cheese)
+
+## Makes
+
+### Easter 2023
+
+I made a mac-and-cheese casserole for Easter of 23. I mistakenly thought this recipe and the serious eats recipe were basically the same and kinda combo-ed them, but they're actually not totally interchangable... Anyway my casserole came out great. I don't know which recipe I'll use next time! 

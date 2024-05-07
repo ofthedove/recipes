@@ -8,7 +8,6 @@ Spiced meat stuffed in a pita and grilled.
 Based on [this Internet Shaquille video](https://www.youtube.com/watch?v=1K45Fr4gXyM).
 
 ## Ingredients
-
 - 1 onion
 - Parsley (curly)
 - 2 cloves garlic
@@ -23,7 +22,6 @@ Based on [this Internet Shaquille video](https://www.youtube.com/watch?v=1K45Fr4
 - Oil
 
 ### Seven Spice / Baharat
-
 - 2 Tb ground Allspice
 - 1 1/2 Tb ground Cumin
 - 1 Tb ground Coriander
@@ -33,7 +31,6 @@ Based on [this Internet Shaquille video](https://www.youtube.com/watch?v=1K45Fr4
 - 1 t Black Pepper
 
 ## Instructions
-
 Roughly chop the onion and pick the leaves off the parsley. Pu the onion, garlic and parsley leaves in a food processor and process until finely minced. Squeeze to remove excess water from the mixture, either by hand or with cheesecloth. Expect a significant amount of water loss.
 
 Return the onion mixture to the bowl of the food processor and add the spices and salt. Seven spice blend can me made using the ingredients above if you're unable to find it. Note that the amounts shown above create 5 or 6 times more than what's needed for a single recipe.
@@ -47,7 +44,6 @@ Serve hot, alone or with a yogurt based sauce.
 ## Makes
 
 ### May 5, 2024
-
 I made these for the first time May 5, 2024. Because salt isn't listed in the spice blends, I forgot to add it. That was a big oopsie. I also scaled up the recipe for 1 1/2 - 2 lb of beef, and added a second onion and breadcrumbs, but forgot to double the spice mixture so they came out rather bland. Texturally I really liked it though, the worked beef is a little bouncy and the pitas were nicely browned.
 
 I served with Tzatziki (greek yogurt, dill, lemon juice, cucumber, and watermelon rind (I had it okay)) and a quick salad of cucumber, tomato, parsley, and olive oil. Also fresh fruit.

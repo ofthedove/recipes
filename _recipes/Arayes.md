@@ -42,9 +42,11 @@ Lightly oil the surface of the pita to improve browning and prevent dryness. Coo
 Serve hot, alone or with a yogurt based sauce.
 
 <div class="noprint">
+
 ## Makes
 
 ### May 5, 2024
+
 I made these for the first time May 5, 2024. Because salt isn't listed in the spice blends, I forgot to add it. That was a big oopsie. I also scaled up the recipe for 1 1/2 - 2 lb of beef, and added a second onion and breadcrumbs, but forgot to double the spice mixture so they came out rather bland. Texturally I really liked it though, the worked beef is a little bouncy and the pitas were nicely browned.
 
 I served with Tzatziki (greek yogurt, dill, lemon juice, cucumber, and watermelon rind (I had it okay)) and a quick salad of cucumber, tomato, parsley, and olive oil. Also fresh fruit.

@@ -4,16 +4,16 @@
 
 layout: home
 ---
-## Recipes
+# Recipes
 Recipes I use
 
 I keep finding/borrowing recipes, making them, and then losing them. To put an end to this, any time I make something from a recipe, the recipe will go in here. I'm also working to record all the family's tranditional recipes, as there are several that we only have one copy of.
 
-### [Links]({% link Links.md %})
+## [Links]({% link Links.md %})
 Quick-link to a document in the repo with links to things I want to make/add. I'm working on moving these to issues on a project board.
 
-### By Type
-#### Meal
+## By Type
+### Meal
 * [Red Beans and Rice]({% link _recipes/RedBeansAndRice.md %})
 * [Carnitas]({% link _recipes/Carnitas.md %})
 * [Chicken Casserole]({% link _recipes/ChickenCasserole.md %})
@@ -23,21 +23,21 @@ Quick-link to a document in the repo with links to things I want to make/add. I'
 * [Short Rib Cottage Pie]({% link _recipes/ShortRibCottagePie.md %})
 * Meatloaf: [Mom's]({% link _recipes/MeatloafMom.md %}) or [Glazed]({% link _recipes/MeatloafGlazed.md %}) or [Ragusea]({% link _recipes/MeatloafRagusea.md %})
 
-#### Snacks and Sides
+### Snacks and Sides
 * [Pimento Cheese]({% link _recipes/PimentoCheese.md %})
 
-#### Dessert
+### Dessert
 * [No Bake Cookies]({% link _recipes/NoBakeCookies.md %})
 * [Lemon Meringue Pie]({% link _recipes/LemonMeringuePie.md %})
 
-### By Occaion
-#### All Occasions
+## By Occaion
+### All Occasions
 These items tend to get made anytime there's a family gathering
 * [Bourbon Cheese]({% link _recipes/BourbonCheese.md %})
 * [Chex Mix]({% link _recipes/ChexMix.md %})
 * [Sausage Balls]({% link _recipes/SausageBalls.md %})
 
-#### Easter
+### Easter
 * [Ham]({% link _recipes/Ham.md %}) - Should be Cumberland Gap
 * [Hashbrown Casserole]({% link _recipes/HashbrownCasserole.md %})
 * [Mac-n-Cheese Casserole]({% link _recipes/MacNCheeseCasserole.md %})
@@ -47,7 +47,7 @@ These items tend to get made anytime there's a family gathering
 * Dinner Rolls
 * Deviled Eggs
 
-#### Thanksgiving
+### Thanksgiving
 
 [Main Page]({% link Thanksgiving.md %})
 
@@ -63,8 +63,8 @@ These items tend to get made anytime there's a family gathering
 * Pecan Pie - Need Recipe
 * [Chocolate Chip Pie]({% link _recipes/ChocolateChipPie.md %})
 
-#### Christmas
-##### Eve
+### Christmas
+#### Eve
 * [Bourbon Cheese]({% link _recipes/BourbonCheese.md %})
 * [Chex Mix]({% link _recipes/ChexMix.md %})
 * [Sausage Balls]({% link _recipes/SausageBalls.md %})
@@ -75,22 +75,22 @@ These items tend to get made anytime there's a family gathering
 * Sugar Cookies
 * [Pecan Tassies]({% link _recipes/PecanTassies.md %})
 * [Potato Candy]({% link _recipes/PotatoCandy.md %})
-##### Morning
+#### Morning
 * [Night Before Christmas Coffee Cake]({% link _recipes/NightBeforeChristmasCoffeeCake.md %})
 * Breakfast Casserole
-##### Dinner
+#### Dinner
 * [Ham]({% link _recipes/Ham.md %}) (Cumberland Gap)
-* [Mac-n-Cheese Casserole]({% link _recipes/MacNCheeseCasserole.md %})
+* [Sweet Potato Casserole]({% link _recipes/SweetPotatoCasserole.md %})
 * [Hashbrown Casserole]({% link _recipes/HashbrownCasserole.md %})
 * Veggies (misc)
 * Bread (likely rolls)
 
-### By YouTuber
-#### Babish ([channel](https://www.youtube.com/user/bgfilms))
+## By YouTuber
+### Babish ([channel](https://www.youtube.com/user/bgfilms))
 * [Pancakes]({% link _recipes/Pancakes.md %})
 * [Classic Pancakes]({% link _recipes/PancakesClassic.md %})
 * [Red Sauce]({% link _recipes/RedSauce.md %})
 
-#### Adam Ragusea ([channel](https://www.youtube.com/channel/UC9_p50tH3WmMslWRWKnM7dQ))
+### Adam Ragusea ([channel](https://www.youtube.com/channel/UC9_p50tH3WmMslWRWKnM7dQ))
 * [Cornbread]({% link _recipes/Cornbread.md %})
 * [Bolognese]({% link _recipes/BologneseSauce.md %})

@@ -41,7 +41,7 @@ Instead of baking the casserole in the morning, the whole thing can be assembled
 Do be mindful that with this method there is a significant difference between using frozen hashbrowns with room temp cream of mushroom vs freshly par-boiled potatoes and freshly cooked gravy. In the latter case, the higher starting temp improves food safety as the casserole gets up to temp much faster, but means the casserole is more likely to overcook if allowed to run all night. 
 
 ### Sausage Gravy
-The cream of mushroom soup can be replaced with a white gravy made using the grease from the sausage.
+The cream of mushroom soup and sour cream can be replaced with a white gravy made using the grease from the sausage.
 
 When the casserole is made for Christmas, it's often made together with the hashbrown casserole, so using cream of mushroom for both is simpler as they can be prepped together. However, when breakfast casserole is made on it's own, the extra effort to prepare a sausage gravy is often worth it. 
 

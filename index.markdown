@@ -75,9 +75,11 @@ These items tend to get made anytime there's a family gathering
 * Sugar Cookies
 * [Pecan Tassies]({% link _recipes/PecanTassies.md %})
 * [Potato Candy]({% link _recipes/PotatoCandy.md %})
+
 #### Morning
 * [Night Before Christmas Coffee Cake]({% link _recipes/NightBeforeChristmasCoffeeCake.md %})
 * [Breakfast Casserole]({% link _recipes/BreakfastCasserole.md %})
+
 #### Dinner
 * [Ham]({% link _recipes/Ham.md %}) (Cumberland Gap)
 * [Sweet Potato Casserole]({% link _recipes/SweetPotatoCasserole.md %})

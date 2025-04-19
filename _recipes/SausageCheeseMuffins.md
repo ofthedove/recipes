@@ -9,7 +9,7 @@ This classic savory hand-held breakfast treat is a favorite in our family. Often
 - 1 lb sausage (Purnell's Old Folks Hot or Spicy-Medium)
 - 1 cup shredded cheddar 
 - 1 can (10.75 oz) condensed cheddar cheese soup, undiluted
-- 2/3 cup water
+- 2/3 cup milk
 - 3 cups bisquick
 
 ## Instructions

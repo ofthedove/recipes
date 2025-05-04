@@ -1,3 +1,9 @@
+---
+layout: page
+title: Meal Planning
+permalink: /meal-planning/
+---
+
 # Meal Planning
 Resources to help with meal planning. Lists of commonly eaten meals for inspiration
 

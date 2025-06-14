@@ -5,6 +5,8 @@ title: Cooked Icing
 
 This classic tops every properly prepared red velvet cake
 
+This recipe is technically a 1.5x of the original recipe, in order to make enough for a torted 4 layer cake with icing between each layer. For a two layer cake, use 2/3 the amounts listed
+
 ## Ingredients
 * 4 1/2 tablespoons flour
 * 1 1/2 cups granulated sugar

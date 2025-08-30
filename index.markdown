@@ -32,6 +32,7 @@ Quick-link to a document in the repo with links to things I want to make/add. I'
 ### Dessert
 * [No Bake Cookies]({% link _recipes/NoBakeCookies.md %})
 * [Lemon Meringue Pie]({% link _recipes/LemonMeringuePie.md %})
+* [Banana Split Dessert]({% link _recipes/BananaSplitDessert.md %})
 
 ## By Occaion
 ### All Occasions

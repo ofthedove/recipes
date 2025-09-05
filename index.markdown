@@ -93,8 +93,8 @@ These items tend to get made anytime there's a family gathering
 
 ## By YouTuber
 ### Babish ([channel](https://www.youtube.com/user/bgfilms))
-* [Pancakes]({% link _recipes/Pancakes.md %})
-* [Classic Pancakes]({% link _recipes/PancakesClassic.md %})
+* [Pancakes]({% link _recipes/Pancakes_Babish.md %})
+* [Classic Pancakes]({% link _recipes/Pancakes_BabishClassic.md %})
 * [Red Sauce]({% link _recipes/RedSauce.md %})
 
 ### Adam Ragusea ([channel](https://www.youtube.com/channel/UC9_p50tH3WmMslWRWKnM7dQ))

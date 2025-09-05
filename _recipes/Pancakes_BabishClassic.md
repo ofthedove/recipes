@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Classic Pancakes
+title: Pancakes - Babish's Classic
 ---
 
 Babish's classic pancake recipe https://www.bingingwithbabish.com/recipes/classicpancakes

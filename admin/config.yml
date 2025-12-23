@@ -1,0 +1,6 @@
+backend:
+  name: github
+  repo: ofthedove/recipes
+  branch: main
+  base_url: https://sveltia-cms-auth.andrewcombs13.workers.dev
+media_folder: "assets/uploads"

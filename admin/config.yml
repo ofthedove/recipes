@@ -4,6 +4,7 @@ backend:
   branch: main
   base_url: https://sveltia-cms-auth.andrewcombs13.workers.dev
 media_folder: "assets/uploads"
+publish_mode: editorial_workflow
 
 collections:
   - name: "posts"

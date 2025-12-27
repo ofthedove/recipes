@@ -35,14 +35,17 @@ collections:
       - label: "Ingredients"
         name: "Ingredients"
         wdiget: "list"
+        collapsed: false
         field: { label: "Ingredient", name: "ingredient", wdiget: "string"}
       - label: "Steps"
         name: "Steps"
         wdiget: "list"
+        collapsed: false
         field: { label: "Step", name: "step", wdiget: "textarea"}
       - label: "Notes"
         name: "Notes"
         wdiget: "list"
+        collapsed: false
         field: { label: "Note", name: "note", wdiget: "textarea"}
   
   - name: "pages"

@@ -1,0 +1,74 @@
+backend:
+  name: github
+  repo: ofthedove/recipes
+  branch: main
+  base_url: https://sveltia-cms-auth.andrewcombs13.workers.dev
+  open_authoring: true
+media_folder: "assets/uploads"
+publish_mode: editorial_workflow
+
+collections:
+  - name: "posts"
+    label: "Posts"
+    folder: "_posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Image", name: "image", widget: "image", required: false }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Description", name: "description", widget: "text", required: false }
+      - { label: "Categories", name: "categories", widget: "list" }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
+      - { label: "Hidden", name: "hidden", widget: "boolean", default: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+
+  - name: "recipes"
+    label: "Recipes"
+    folder: "_recipes"
+    create: true
+    slug: "{{title}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Image", name: "image", widget: "image", required: false }
+      - { label: "Description", name: "description", widget: "markdown", required: false }
+      - label: "Ingredients"
+        name: "Ingredients"
+        wdiget: "list"
+        collapsed: false
+        field: { label: "Ingredient", name: "ingredient", wdiget: "string"}
+      - label: "Steps"
+        name: "Steps"
+        wdiget: "list"
+        collapsed: false
+        field: { label: "Step", name: "step", wdiget: "textarea"}
+      - label: "Notes"
+        name: "Notes"
+        wdiget: "list"
+        collapsed: false
+        field: { label: "Note", name: "note", wdiget: "textarea"}
+  
+  - name: "pages"
+    label: "Pages"
+    files:
+      - name: "Links"
+        label: "Just a Bunch of Links"
+        file: "Links.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Content", name: "body", widget: "markdown" }
+      
+      - name: "Thanksgiving"
+        label: "Thanksgiving"
+        file: "Thanksgiving.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Content", name: "body", widget: "markdown" }
+      
+      - name: "Meal Planning"
+        label: "Meal Planning"
+        file: "MealPlanning.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Content", name: "body", widget: "markdown" }

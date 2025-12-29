@@ -24,10 +24,4 @@ Subsequent paragraphs will appear in the recipe, but not in the list
 
 * Drain and mash the sweet potatoes, add the rest of the filling ingredients and mix well.  You could do this with a mixer or by hand.  Spread in a 9x13 dish.  
 * Combine the topping ingredients and sprinke over the potato mixture.
-* Bake at 350 for 30 - 40 minutes. 
-
-## Notes
-
-* This is a nice place to include any other relevant info
-* Like common variations
-* Or notes about an ingredient or step
+* Bake at 350 for 30 - 40 minutes.

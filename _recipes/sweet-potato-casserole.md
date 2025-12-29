@@ -3,8 +3,6 @@ title: Sweet Potato Casserole
 ---
 Our classic sweet potato casserole with pecans and brown sugar topping, no marshmallows.  
 
-Subsequent paragraphs will appear in the recipe, but not in the list
-
 ## Ingredients
 
 * 2 cans (29 ounce) cut yams
@@ -14,7 +12,8 @@ Subsequent paragraphs will appear in the recipe, but not in the list
 * 4 eggs slightly beaten
 * 1/4 cup white sugar (optional) 
 * 1/2 tsp cinnamon (optional)
-* Topping: 
+
+Topping: 
 * 1 1/2 cup pecans, chopped
 * 1 cup brown sugar
 * 1/4 cup flour

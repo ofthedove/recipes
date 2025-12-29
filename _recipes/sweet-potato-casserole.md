@@ -1,21 +1,33 @@
 ---
 title: Sweet Potato Casserole
 ---
-Description of the recipe. Give some context and history. The first paragraph will be shown on the recipes list.
+Our classic sweet potato casserole with pecans and brown sugar topping, no marshmallows.  
 
 Subsequent paragraphs will appear in the recipe, but not in the list
 
 ## Ingredients
-* quantity name (details or options) example:
-* 1/4 cup chopped pecans
-* if using a qty like "1 box" be sure to include the size of the box/can (8 oz) example:
-* 2 cans (10oz ea) Rotel (I used GV brand)
+
+* 2 cans (29 ounce) cut yams
+* 1/2 cup butter, melted
+* 1/2 c milk (evaporated milk would be a great choice)
+* 1 t vanilla extract
+* 4 eggs slightly beaten
+* 1/4 cup white sugar (optional) 
+* 1/2 tsp cinnamon (optional)
+* Topping: 
+* 1 1/2 cup pecans, chopped
+* 1 cup brown sugar
+* 1/4 cup flour
+* 1/4 cup butter melted
 
 ## Instructions
-- This can be paragraphs, unordered list (with - or *), or an ordered list (1. 2. etc)
-- Here is another Instructions
+
+* Drain and mash the sweet potatoes, add the rest of the filling ingredients and mix well.  You could do this with a mixer or by hand.  Spread in a 9x13 dish.  
+* Combine the topping ingredients and sprinke over the potato mixture.
+* Bake at 350 for 30 - 40 minutes. 
 
 ## Notes
-- This is a nice place to include any other relevant info
-- Like common variations
-- Or notes about an ingredient or step
+
+* This is a nice place to include any other relevant info
+* Like common variations
+* Or notes about an ingredient or step

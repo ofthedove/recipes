@@ -3,26 +3,25 @@ layout: recipe
 title: Sweet Potato Casserole
 ---
 
-A Thanksgiving necessity
+Our classic sweet potato casserole with pecans and brown sugar topping, no marshmallows.
 
 ## Ingredients
 ### Filling
-- 3 c sweet potatoes, cooked and mashed (or canned, drained and mashed)
-- 1/4 c milk
-- 1/3 c butter, melted
-- 2 eggs, beaten
-- 1 tsp vanilla
-- 1/2 tsp salt
+* 2 cans (29 ounce) cut yams
+* 1/2 cup butter, melted
+* 1/2 c milk (evaporated milk would be a great choice)
+* 1 t vanilla extract
+* 4 eggs slightly beaten
+* 1/4 cup white sugar (optional)
+* 1/2 tsp cinnamon (optional)
 
 ### Topping
-- 1 c pecans, chopped
-- 2/3 c brown sugar
-- 1/3 c butter, melted
-- 3 Tbsp flour
+* 1 1/2 cup pecans, chopped
+* 1 cup brown sugar
+* 1/4 cup flour
+* 1/4 cup butter melted
 
 ## Instructions
-Mix mashed sweet potatoes, milk, butter, vanilla, eggs, and salt. Spoon into a 1 1/2 quart oiled casserole
-
-Combine topping ingredients and springkle over sweet potatoes.
-
-Bake at 375 degrees F for 25 to 30 minutes. Serves 6
+* Drain and mash the sweet potatoes, add the rest of the filling ingredients and mix well.  You could do this with a mixer or by hand.  Spread in a 9x13 dish.
+* Combine the topping ingredients and sprinke over the potato mixture.
+* Bake at 350 for 30 - 40 minutes.

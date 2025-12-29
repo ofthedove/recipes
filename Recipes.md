@@ -12,5 +12,6 @@ permalink: /recipes/
       {{ recipe.title }}
     </a>
   </h3>
+  <p>Tags: {% for tag in page.tags %} <a href="/tags/{{ tag | slugify: "raw" }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %} {% endfor %}</p>
   <p>{{ recipe.excerpt | markdownify }}</p>
 {% endfor %}

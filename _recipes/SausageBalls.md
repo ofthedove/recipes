@@ -1,6 +1,9 @@
 ---
 layout: recipe
 title: Sausage Balls
+tags:
+  - "Snacks and Appetizers"
+  - Holiday
 ---
 
 A classic snack for every occasion

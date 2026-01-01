@@ -30,6 +30,7 @@ collections:
     create: true
     slug: "{{fields.slug}}"
     fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "recipe" }
       - { label: "Slug", name: "slug", widget: "hidden", default: "new-recipe" }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Image", name: "image", widget: "image", required: false }

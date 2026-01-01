@@ -1,6 +1,6 @@
 ---
 layout: recipe
-slug: new-recipe
+slug: TestTest
 title: Test Test
 ---
 Description of the recipe. Give some context and history. The first paragraph will be shown on the recipes list.

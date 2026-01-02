@@ -34,6 +34,12 @@ collections:
       - { label: "Slug", name: "slug", widget: "hidden", default: "new-recipe" }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Image", name: "image", widget: "image", required: false }
+      - { label: "TagsToo", name: "tagsToo", widget: "list", required: false }
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        summary: '{{fields.tag}}'
+        field: {label: "Tag", name: "tag", widget: "string"}
       - label: "Body"
         name: "body"
         widget: "markdown"

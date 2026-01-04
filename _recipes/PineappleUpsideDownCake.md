@@ -1,6 +1,6 @@
 ---
 layout: recipe
-slug: new-recipe
+slug: PineappleUpsideDownCake
 title: Pineapple Upside Down Cake
 image: /assets/uploads/pxl_20251217_022757225-edit.jpg
 tags:

@@ -1,6 +1,6 @@
 ---
 layout: recipe
-slug: new-recipe
+slug: ChewyMmCookies
 title: Chewy M&M Cookies
 ---
 This impossibly easy cookie recipe produces amazing, chewy cookies with crisp bottoms and intense flavor.

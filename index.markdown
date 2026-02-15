@@ -76,7 +76,7 @@ These items tend to get made anytime there's a family gathering
 * [Bacon wrapped smokies]({% link _recipes/BaconWrappedSmokies.md %})
 * [Snowball Cookies]({% link _recipes/Snowballs.md %})
 * Chocolate Chip Cookies
-* Sugar Cookies
+* [Sugar Cookies]({% link _recipes/SugarCookieCutouts.md %})
 * [Pecan Tassies]({% link _recipes/PecanTassies.md %})
 * [Potato Candy]({% link _recipes/PotatoCandy.md %})
 

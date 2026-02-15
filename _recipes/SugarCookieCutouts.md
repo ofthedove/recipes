@@ -1,6 +1,6 @@
 ---
 layout: recipe
-slug: new-recipe
+slug: SugarCookieCutouts
 title: Sugar Cookie Cutouts
 ---
 The classic sugar cookie decorated every year for Christmas with decorating sugar. The recipe for this classic treat comes straight from the Better Homes and Gardens New Cook Book

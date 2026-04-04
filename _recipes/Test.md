@@ -4,10 +4,16 @@ slug: Test
 title: Test
 occasion:
   - Everyday/None
+  - Christmas
+  - Easter
+  - Thanksgiving
+  - New Years/Super Bowl/Party
 course:
   - Appetizer/Snack
   - Side
   - Breakfast
+  - Entree
+  - Dessert
 ---
 Description of the recipe. Give some context and history. The first paragraph will be shown on the recipes list.
 

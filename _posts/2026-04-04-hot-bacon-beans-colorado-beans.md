@@ -12,7 +12,7 @@ tags:
 hidden: false
 ---
 ## Ingredients
-- 8 slices Bacon
+- 8 slices Bacon (approx 1/2 lb)
 - 4 medium Onions
 - 1/2 cup Brown sugar
 - 1/2 cup Vinegar

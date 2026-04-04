@@ -1,6 +1,6 @@
 ---
 layout: recipe
-slug: new-recipe
+slug: Test
 title: Test
 occasion:
   - Everyday/None

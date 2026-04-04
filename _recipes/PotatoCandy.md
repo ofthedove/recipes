@@ -1,6 +1,11 @@
 ---
 layout: recipe
 title: Potato Candy
+occasion:
+  - Everyday/Other
+  - New Years/Super Bowl/Party
+course:
+  - Dessert
 ---
 
 It may sound crazy, but it's super tasty! No one really knows for sure where it came from but it seems to be popular mostly only in and around the Appalachian region. Our family has been making it for as long as I can remember.

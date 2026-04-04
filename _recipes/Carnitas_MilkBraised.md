@@ -1,6 +1,10 @@
 ---
 layout: recipe
 title: Carnitas (Milk Braised)
+occasion:
+  - Everyday/Other
+course:
+  - Entree
 ---
 
 This is Mom's preferred recipe for Milk Braised Carnitas.

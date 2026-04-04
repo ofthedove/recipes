@@ -1,6 +1,10 @@
 ---
 layout: recipe
 title: Arayes
+occasion:
+  - Everyday/Other
+course:
+  - Entree
 ---
 
 Spiced meat stuffed in a pita and grilled.

@@ -1,6 +1,10 @@
 ---
 layout: recipe
 title: Bolognese Sauce
+occasion:
+  - Everyday/Other
+course:
+  - Entree
 ---
 
 Adam Ragusea's Bolognese Sauce. Typing it up from the video so I can try it

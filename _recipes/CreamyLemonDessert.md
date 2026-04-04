@@ -1,6 +1,10 @@
 ---
 layout: recipe
 title: Creamy Lemon Dessert
+occasion:
+  - Everyday/Other
+course:
+  - Dessert
 ---
 
 Nanny's (and now Mom) have made this recipe for longer than I've been alive.

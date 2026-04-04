@@ -1,6 +1,11 @@
 ---
 layout: recipe
 title: Chex Mix
+occasion:
+  - Everyday/Other
+  - New Years/Super Bowl/Party
+course:
+  - Appetizer/Snack
 ---
 
 This is Mom's famous chex mix. It needs no further introduction

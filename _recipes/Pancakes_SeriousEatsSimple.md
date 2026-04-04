@@ -1,6 +1,10 @@
 ---
 layout: recipe
 title: Pancakes - Serious Eats (Simple)
+occasion:
+  - Everyday/Other
+course:
+  - Breakfast
 ---
 
 Nice solid recipe from Serious Eats that doesn't require any crazy ingredients. (I love buttermilk pancakes but rarely have buttermilk)

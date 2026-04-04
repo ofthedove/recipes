@@ -1,6 +1,10 @@
 ---
 layout: recipe
 title: Ham
+occasion:
+  - Easter
+course:
+  - Entree
 ---
 
 The correct ham is a Cumberland Gap ham. This has the best flavor. Other types of ham can be substituted with less desireable results. The recipe here is for the glaze and heating instructions. Apparently this glaze recipe came from Uncle Bill.

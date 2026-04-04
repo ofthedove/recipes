@@ -1,6 +1,10 @@
 ---
 layout: recipe
 title: Night Before Christmas Coffee Cake
+occasion:
+  - Christmas
+course:
+  - Breakfast
 ---
 
 An absolute necessity every Christmas morning.

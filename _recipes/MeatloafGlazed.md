@@ -1,6 +1,10 @@
 ---
 layout: recipe
 title: Meatloaf - Glazed
+occasion:
+  - Everyday/Other
+course:
+  - Entree
 ---
 This is NOT Mom's meatloaf, but it's good. Firmer, didn't fall apart, but wasn't dry either.
 

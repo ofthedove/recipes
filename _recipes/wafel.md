@@ -1,6 +1,10 @@
 ---
 layout: recipe
 title: Wafel
+occasion:
+  - Everyday/Other
+course:
+  - Breakfast
 ---
 The only
 

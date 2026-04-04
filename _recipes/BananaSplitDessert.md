@@ -1,6 +1,10 @@
 ---
 layout: recipe
 title: Banana Split Dessert
+occasion:
+  - Everyday/Other
+course:
+  - Dessert
 ---
 
 Passed down for generations

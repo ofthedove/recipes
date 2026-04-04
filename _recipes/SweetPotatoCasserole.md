@@ -1,6 +1,10 @@
 ---
 layout: recipe
 title: Sweet Potato Casserole
+occasion:
+  - Thanksgiving
+course:
+  - Side
 ---
 
 Our classic sweet potato casserole with pecans and brown sugar topping, no marshmallows.

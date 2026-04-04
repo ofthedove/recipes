@@ -1,6 +1,10 @@
 ---
 layout: recipe
 title: Pie
+occasion:
+  - Everyday/Other
+course:
+  - Dessert
 ---
 
 Various pie related things

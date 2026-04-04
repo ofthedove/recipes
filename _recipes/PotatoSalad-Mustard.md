@@ -1,6 +1,10 @@
 ---
 layout: recipe
 title: Mustard Potato Salad
+occasion:
+  - Everyday/Other
+course:
+  - Side
 ---
 
 Mom's classic mustard potato salad, perfect with burgers or brats. Eat it hot or cold. Great for picnics and potlucks.

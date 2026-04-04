@@ -1,6 +1,10 @@
 ---
 layout: recipe
 title: Carnitas
+occasion:
+  - Everyday/Other
+course:
+  - Entree
 ---
 
 I've made these before in the instant pot, but unfortunately I don't know where that recipe is. Here's a recipe I found in my open tabs that looks pretty good, I guess.

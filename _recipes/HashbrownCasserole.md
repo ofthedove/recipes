@@ -1,6 +1,12 @@
 ---
 layout: recipe
 title: Hashbrown Casserole
+occasion:
+  - Christmas
+  - Easter
+  - Thanksgiving
+course:
+  - Side
 ---
 
 A classic potato side usually enjoyed at Easter, Thanksgiving, and Christmas

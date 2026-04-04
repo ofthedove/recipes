@@ -1,6 +1,10 @@
 ---
 layout: recipe
 title: Jambalaya
+occasion:
+  - Everyday/Other
+course:
+  - Entree
 ---
 No seafood here! It may not be "authentic" but it sure is tasty!
 

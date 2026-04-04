@@ -3,7 +3,9 @@ layout: recipe
 slug: PineappleUpsideDownCake
 title: Pineapple Upside Down Cake
 image: /assets/uploads/pxl_20251217_022757225-edit.jpg
-tags:
+occasion:
+  - Everyday/Other
+course:
   - Dessert
 ---
 A classic, evergreen dessert. Basically yellow cake fried in butter and sugar. What's not to love?

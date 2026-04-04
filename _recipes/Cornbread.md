@@ -1,6 +1,10 @@
 ---
 layout: recipe
 title: Cornbread
+occasion:
+  - Everyday/Other
+course:
+  - Side
 ---
 
 Adam Ragusea's recipe from YouTube. Gonna try it, figure I should write it down first.

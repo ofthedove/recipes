@@ -1,6 +1,10 @@
 ---
 layout: recipe
 title: Bacon Wrapped Smokies
+occasion:
+  - New Years/Super Bowl/Party
+course:
+  - Appetizer/Snack
 ---
 
 A fantastic treat usually reserved for Christmas and New Years

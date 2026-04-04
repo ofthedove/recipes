@@ -1,6 +1,10 @@
 ---
 layout: recipe
 title: Sausage Rice
+occasion:
+  - Everyday/Other
+course:
+  - Entree
 ---
 
 Gordon Ramsey's Sausage Rice, from [A Glug of Oil](https://www.aglugofoil.com/2012/10/spicy-sausage-rice-recipe-gordon-ramsay.html?m=1). This is an oft-made weeknight staple. The flavor can be varied significantly by changing the sausage used.

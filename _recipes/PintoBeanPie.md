@@ -1,6 +1,10 @@
 ---
 layout: recipe
 title: Pinto Bean Pie
+occasion:
+  - Everyday/Other
+course:
+  - Dessert
 ---
 
 Found on TikTok, this recipe is copied from [ALegumeADay.com](https://alegumeaday.com/pinto-bean-pie/)

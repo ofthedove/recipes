@@ -1,6 +1,10 @@
 ---
 layout: recipe
 title: Korean Meatballs
+occasion:
+  - Everyday/Other
+course:
+  - Entree
 ---
 
 Inspired by a couple Hello Fresh meals, this version uses pre-made meatballs for a super low-effort weeknight meal.

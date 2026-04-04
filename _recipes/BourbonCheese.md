@@ -1,6 +1,10 @@
 ---
 layout: recipe
 title: Bourbon Cheese
+occasion:
+  - New Years/Super Bowl/Party
+course:
+  - Appetizer/Snack
 ---
 
 Feel free to play with the spices on this one. I usually taste and adjust several times before I call it done. Also, this is most easily made in a food processor, but you can do it with a mixer too. Letting it sit for a day or two will smooth it out a lot.

@@ -1,6 +1,10 @@
 ---
 layout: recipe
 title: Cheesecake
+occasion:
+  - Everyday/Other
+course:
+  - Dessert
 ---
 
 Classic family cheesecake recipe. Mom made this for Emily's birthday this year (2023) and didn't have the recipe, but remembered it was the "Dear Abby" recipe. I found it and she confirmed it is the one true canonical cheesecake recipe, so I'm recording it here!

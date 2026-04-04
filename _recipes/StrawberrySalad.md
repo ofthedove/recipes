@@ -1,6 +1,10 @@
 ---
 layout: recipe
 title: Strawberry Salad
+occasion:
+  - Everyday/Other
+course:
+  - Side
 ---
 
 This strawberry tossed salad has long been a family favorite. If I recall correctly, Erica is responsible for orignally popularizing the recipe way back in Livermore.

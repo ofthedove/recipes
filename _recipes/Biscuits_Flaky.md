@@ -1,6 +1,10 @@
 ---
 layout: recipe
 title: Biscuits (Flaky)
+occasion:
+  - Everyday/Other
+course:
+  - Breakfast
 ---
 
 These biscuits are a bit more work than my easy biscuits, but are very rewarding.

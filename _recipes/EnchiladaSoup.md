@@ -1,6 +1,10 @@
 ---
 layout: recipe
 title: Enchilada Soup
+occasion:
+  - Everyday/Other
+course:
+  - Entree
 ---
 
 This started as a harebrained experiment but it turned out really nice, Thia liked it, and I expect I'll make it again. It's not too far off of Chicken Tortilla Soup, though it's been so long now I couldn't tell you how close it is exactly.

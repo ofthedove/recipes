@@ -1,6 +1,10 @@
 ---
 layout: recipe
 title: Pancakes - Thia's Special Recipe
+occasion:
+  - Everyday/Other
+course:
+  - Breakfast
 ---
 
 This is Thia's favorite best recipe for pancakes.

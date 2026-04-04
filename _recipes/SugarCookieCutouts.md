@@ -4,9 +4,11 @@ slug: SugarCookieCutouts
 title: Sugar Cookie Cutouts
 source: "BH&G New Cookbook"
 contributor: ofthedove
-tags:
-  - Holiday
-  - Cookie
+occasion:
+  - Everyday/Other
+  - Christmas
+course:
+  - Dessert
 ---
 The classic sugar cookie decorated every year for Christmas with decorating sugar. The recipe for this classic treat comes straight from the Better Homes and Gardens New Cook Book
 

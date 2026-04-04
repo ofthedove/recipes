@@ -1,6 +1,11 @@
 ---
 layout: recipe
 title: Chocolate Chip Pie
+occasion:
+  - Everyday/Other
+  - Thanksgiving
+course:
+  - Dessert
 ---
 
 This incredibly chocolatey, rich pie is my favorite pie, and a great choice for Thanksgiving or any celebration.

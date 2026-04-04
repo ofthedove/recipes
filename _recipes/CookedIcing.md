@@ -1,6 +1,10 @@
 ---
 layout: recipe
 title: Cooked Icing
+occasion:
+  - Everyday/Other
+course:
+  - Dessert
 ---
 
 This classic tops every properly prepared red velvet cake

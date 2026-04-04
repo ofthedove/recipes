@@ -1,6 +1,10 @@
 ---
 layout: recipe
 title: No Bake Cookies
+occasion:
+  - Everyday/Other
+course:
+  - Dessert
 ---
 
 I don't think there's much variation in recipes for no bake cookies, but this is one I used recently. It has peanut butter in it!

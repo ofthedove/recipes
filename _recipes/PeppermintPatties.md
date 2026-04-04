@@ -1,6 +1,10 @@
 ---
 layout: recipe
 title: Peppermint Patties
+occasion:
+  - Everyday/Other
+course:
+  - Dessert
 ---
 
 I'm gonna try making these this year, I think. (Dec 2021) Two different recipes, this one is the super-extra one from Alton Brown

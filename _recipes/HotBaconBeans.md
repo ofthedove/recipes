@@ -1,10 +1,11 @@
 ---
 layout: recipe
 title: Hot Bacon Beans (Colorado Beans)
-createdDate: 2026-04-04T16:17:00.000-04:00
-contributor: Andrew
-tags:
- - SideDish
+contributor: ofthedove
+occasion:
+  - Everyday/Other
+course:
+  - Side
 ---
 
 Traditionally called Colorado beans, we are hereby declaring these "Hot Bacon Beans" as the sauce is very similar to hot bacon dressing.

@@ -2,6 +2,12 @@
 layout: recipe
 slug: ChewyMmCookies
 title: Chewy M&M Cookies
+occasion:
+  - Everyday/Other
+  - Christmas
+  - New Years/Super Bowl/Party
+course:
+  - Dessert
 ---
 This impossibly easy cookie recipe produces amazing, chewy cookies with crisp bottoms and intense flavor.
 

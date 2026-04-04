@@ -1,6 +1,11 @@
 ---
 layout: recipe
 title: Breakfast Casserole
+occasion:
+  - Everyday/Other
+  - Christmas
+course:
+  - Breakfast
 ---
 
 The classic Christmas morning casserole, plus some variations. The base recipe is very similar to [Hashbrown Casserole]({% link _recipes/HashbrownCasserole.md %})

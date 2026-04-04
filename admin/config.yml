@@ -34,12 +34,14 @@ collections:
       - { label: "Slug", name: "slug", widget: "hidden", default: "new-recipe" }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Image", name: "image", widget: "image", required: false }
+      - { label: "Contributor", name: "contributor", widget: "string", required: false }
+      - { label: "Source", name: "source", widget: "string", required: false }
       - label: "Occasion"
         name: "occasion"
         widget: "select"
         multiple: true
         required: true
-        options: ["Christmas", "Easter", "Thanksgiving", "New Years/Super Bowl/Party", "Everyday/None"]
+        options: ["Christmas", "Easter", "Thanksgiving", "New Years/Super Bowl/Party", "Everyday/Other"]
       - label: "Course"
         name: "course"
         widget: "select"

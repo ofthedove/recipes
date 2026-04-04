@@ -1,6 +1,11 @@
 ---
 layout: recipe
 title: Pecan Tassies
+occasion:
+  - Everyday/Other
+  - New Years/Super Bowl/Party
+course:
+  - Dessert
 ---
 
 A classic holiday treat

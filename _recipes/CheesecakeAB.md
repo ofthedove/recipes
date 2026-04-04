@@ -1,6 +1,10 @@
 ---
 layout: recipe
 title: Cheesecake (AB)
+occasion:
+  - Everyday/Other
+course:
+  - Dessert
 ---
 
 Alton Brown's cheesecake recipe. Making this for Mom's 50th

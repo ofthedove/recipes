@@ -1,6 +1,12 @@
 ---
 layout: recipe
 title: Mac and Cheese Casserole
+occasion:
+  - Everyday/Other
+  - Christmas
+  - Easter
+course:
+  - Side
 ---
 
 A classic comfort side dish usually enjoyed at Easter, Thanksgiving, and Christmas. This recipe comes from Mom's Better Homes and Gardens cook book, with several tweaks. Make sure to check the notes, there are several for this recipe!

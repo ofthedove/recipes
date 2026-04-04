@@ -1,6 +1,10 @@
 ---
 layout: recipe
 title: Corned Beef and Cabbage
+occasion:
+  - Everyday/Other
+course:
+  - Entree
 ---
 
 The St Patricks Day meal, Mom has been making corned beef and cabbage since time immemorial. Consider serving alongside hot dog casserole with green mustard!

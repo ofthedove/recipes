@@ -1,6 +1,10 @@
 ---
 layout: recipe
 title: Biscuits (Easy)
+occasion:
+  - Everyday/Other
+course:
+  - Breakfast
 ---
 
 These biscuits are dead easy and can be made in any quantity, even just one biscuit!

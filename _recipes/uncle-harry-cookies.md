@@ -1,6 +1,10 @@
 ---
 layout: recipe
 title: Uncle Harry Cookies
+occasion:
+  - Everyday/Other
+course:
+  - Dessert
 ---
 
 Also known as "Crack Cookies" because they're just so good! A classic quick dessert or sweet snack to feed a crowd, always a hit with the youth group or boy scout troop. Basically, it's a rice crispy but wiht cocoa crispies and peanut butter.

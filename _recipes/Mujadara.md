@@ -1,6 +1,10 @@
 ---
 layout: recipe
 title: Mujadara
+occasion:
+  - Everyday/Other
+course:
+  - Entree
 ---
 
 Found this [online](themediterraneandish.com/mujadara-lentils-and-rice-with-crispy-onions/) and it looks interesting.

@@ -1,6 +1,12 @@
 ---
 layout: recipe
 title: Pimento Cheese
+occasion:
+  - Everyday/Other
+course:
+  - Appetizer/Snack
+  - Side
+  - Entree
 ---
 
 Great on a sandwich or with crackers. A perfect accompaniment for chili, but great on it's own too. Makes a fantastic, though somewhat runny grilled cheese.

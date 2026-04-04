@@ -1,6 +1,10 @@
 ---
 layout: recipe
 title: Lemon Meringue Pie
+occasion:
+  - Everyday/Other
+course:
+  - Dessert
 ---
 
 Mom's classic Lemon Meringue Pie recipe, from the Better Homes and Gardens cookbook.

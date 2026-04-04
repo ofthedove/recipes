@@ -1,6 +1,10 @@
 ---
 layout: recipe
 title: Macaroni and Cheese
+occasion:
+  - Everyday/Other
+course:
+  - Side
 ---
 
 This is the Serious Eats Food Lab macaroni and cheese from [SeriousEats.com](https://www.seriouseats.com/recipes/2015/10/the-food-labs-ultra-gooey-stovetop-mac-cheese.html)

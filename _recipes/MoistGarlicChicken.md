@@ -1,6 +1,10 @@
 ---
 layout: recipe
 title: Moist Garlic Chicken
+occasion:
+  - Everyday/Other
+course:
+  - Entree
 ---
 
 I'm afraid this "recipe" is very basic and will take some interpretation to replicate. It's pretty hard to mess up. Good luck!

@@ -1,6 +1,10 @@
 ---
 layout: recipe
 title: Pancakes - Babish's Classic
+occasion:
+  - Everyday/Other
+course:
+  - Breakfast
 ---
 
 Babish's classic pancake recipe https://www.bingingwithbabish.com/recipes/classicpancakes

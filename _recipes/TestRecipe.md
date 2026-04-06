@@ -1,8 +1,8 @@
 ---
 layout: recipe
-slug: new-recipe
+slug: TestRecipe
 title: Test Recipe
-contributor: default-contributor
+contributor: Andrew Combs
 source: Better Homes and Gardens New Cookbook
 occasion:
   - Easter

@@ -34,8 +34,8 @@ collections:
       - { label: "Slug", name: "slug", widget: "hidden", default: "new-recipe" }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Image", name: "image", widget: "image", required: false }
-      - { label: "Contributor", name: "contributor", widget: "string", required: false }
-      - { label: "Source", name: "source", widget: "string", required: false }
+      - { label: "Contributor", name: "contributor", widget: "hidden", default: "default-contributor" }
+      - { label: "Source (what cookbook, chef, family, etc)", name: "source", widget: "string", required: false }
       - label: "Occasion"
         name: "occasion"
         widget: "select"

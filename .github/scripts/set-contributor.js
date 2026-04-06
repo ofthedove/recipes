@@ -4,98 +4,93 @@ const yaml = require('js-yaml');
 
 const recipesDir = path.join(process.cwd(), '_recipes');
 
-// Convert title to PascalCase
-function toPascalCase(title) {
-  // Remove common punctuation and special characters
-  let cleaned = title
-    .replace(/[""'']/g, '') // Remove quotes
-    .replace(/[^\w\s()-]/g, '') // Keep only word chars, spaces, hyphens, parens
-    .trim();
-  
-  // Handle parentheses - convert to underscores
-  // e.g., "Biscuits (Easy)" -> "Biscuits_Easy"
-  cleaned = cleaned.replace(/\s*\(\s*/g, '_').replace(/\s*\)\s*/g, '');
-  
-  // Split on spaces and hyphens
-  const words = cleaned.split(/[\s-]+/);
-  
-  // Capitalize first letter of each word and join
-  const pascalCase = words
-    .filter(word => word.length > 0)
-    .map(word => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase())
-    .join('');
-  
-  return pascalCase || 'NewRecipe';
+function normalizeLineEndings(content) {
+  return content.replace(/\r\n/g, '\n');
+}
+
+async function getContributorName() {
+  const prAuthorLogin = process.env.PR_AUTHOR_LOGIN;
+
+  if (!prAuthorLogin) {
+    throw new Error('PR_AUTHOR_LOGIN is required but was not provided.');
+  }
+
+  const headers = {
+    'Accept': 'application/vnd.github+json',
+    'User-Agent': 'recipes-contributor-updater'
+  };
+
+  if (process.env.GITHUB_TOKEN) {
+    headers.Authorization = `Bearer ${process.env.GITHUB_TOKEN}`;
+  }
+
+  const response = await fetch(`https://api.github.com/users/${encodeURIComponent(prAuthorLogin)}`, {
+    headers
+  });
+
+  if (!response.ok) {
+    throw new Error(`Failed to fetch GitHub user profile for ${prAuthorLogin}: ${response.status} ${response.statusText}`);
+  }
+
+  const user = await response.json();
+  return (user.name && user.name.trim()) || prAuthorLogin;
 }
 
 // Extract frontmatter and body from markdown file
 function parseFrontmatter(content) {
+  const normalized = normalizeLineEndings(content);
   const frontmatterRegex = /^---\n([\s\S]*?)\n---\n([\s\S]*)$/;
-  const match = content.match(frontmatterRegex);
-  
+  const match = normalized.match(frontmatterRegex);
+
   if (!match) {
-    return { frontmatter: {}, body: content };
+    return { frontmatter: {}, body: normalized };
   }
-  
+
   const frontmatter = yaml.load(match[1]) || {};
   const body = match[2];
-  
+
   return { frontmatter, body };
 }
 
 // Process all recipe files
-function processRecipes() {
+async function processRecipes() {
+  const contributorName = await getContributorName();
   const files = fs.readdirSync(recipesDir);
-  
+
   files.forEach(filename => {
     const filePath = path.join(recipesDir, filename);
-    
+
     // Skip non-markdown files
     if (!filename.endsWith('.md')) {
       return;
     }
-    
+
     // Read file content
     const content = fs.readFileSync(filePath, 'utf8');
     const { frontmatter, body } = parseFrontmatter(content);
-    
+
     // Check if this is a new file with default contributor
     if (frontmatter.contributor === 'default-contributor') {
-      
-      const newSlug = toPascalCase(frontmatter.title);
-      const newFilename = `${newSlug}.md`;
-      const newFilePath = path.join(recipesDir, newFilename);
-      
-      // Update frontmatter with new slug
-      frontmatter.slug = newSlug;
-      
+      const newContributor = contributorName;
+
+      // Update frontmatter with new contributor
+      frontmatter.contributor = newContributor;
+
       // Reconstruct file content
       const newContent = `---\n${yaml.dump(frontmatter, { lineWidth: -1 }).trim()}\n---\n${body}`;
-      
-      // If filename needs to change
-      if (filename !== newFilename) {
-        console.log(`Renaming: ${filename} -> ${newFilename}`);
-        
-        // Delete old file if it's not already the correct name
-        if (fs.existsSync(filePath) && filePath !== newFilePath) {
-          fs.unlinkSync(filePath);
-        }
-        
-        // Write new file
-        fs.writeFileSync(newFilePath, newContent, 'utf8');
-      } else {
-        // Just update the slug in frontmatter
-        console.log(`Updating slug in: ${filename}`);
-        fs.writeFileSync(filePath, newContent, 'utf8');
-      }
+
+      // Just update the contributor in frontmatter
+      console.log(`Updating contributor in: ${filename}`);
+      fs.writeFileSync(filePath, newContent, 'utf8');
     }
   });
 }
 
-try {
-  processRecipes();
-  console.log('Recipe contributor processing complete');
-} catch (error) {
-  console.error('Error processing recipes:', error);
-  process.exit(1);
-}
+processRecipes()
+  .then(() => {
+    console.log('Recipe contributor processing complete');
+  })
+  .catch(error => {
+    console.error('Error processing recipes:', error);
+    process.exit(1);
+  });

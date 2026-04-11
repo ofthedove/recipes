@@ -1,7 +1,7 @@
 name: cleanup-decap-pr
 
 on:
-  pull_request:
+  pull_request_target:
     types: [opened, synchronize]
     paths:
       - '_recipes/**'
@@ -14,12 +14,18 @@ jobs:
       pull-requests: write
 
     steps:
+      - name: Checkout trusted scripts
+        uses: actions/checkout@v4
+        with:
+          path: trusted-logic
+
       - name: Checkout PR branch
         uses: actions/checkout@v4
         with:
-          ref: ${{ github.event.pull_request.head.ref }}
+          ref: ${{ github.event.pull_request.head.sha }}
           repository: ${{ github.event.pull_request.head.repo.full_name }}
-          token: ${{ secrets.GITHUB_TOKEN }}
+          path: pr-content
+          persist-credentials: true
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -27,18 +33,24 @@ jobs:
           node-version: '20'
 
       - name: Install dependencies
-        run: npm install js-yaml
+        run: cd trusted-logic && npm install js-yaml
 
       - name: Fix recipe slugs
-        run: node .github/scripts/fix-recipe-slugs.js
+        working-directory: pr-content
+        env:
+          NODE_PATH: ${{ github.workspace }}/trusted-logic/node_modules
+        run: node ../trusted-logic/.github/scripts/fix-recipe-slugs.js
 
       - name: Set contributor
+        working-directory: pr-content
         env:
+          NODE_PATH: ${{ github.workspace }}/trusted-logic/node_modules
           PR_AUTHOR_LOGIN: ${{ github.event.pull_request.user.login }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: node .github/scripts/set-contributor.js
+        run: node ../trusted-logic/.github/scripts/set-contributor.js
 
       - name: Commit changes
+        working-directory: pr-content
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -46,6 +58,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Auto-fix recipe filenames to PascalCase"
-            git push
+            git commit -m "Auto-fix recipe filenames to PascalCase and set contributor"
+            git push origin HEAD:${{ github.event.pull_request.head.ref }}
           fi

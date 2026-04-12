@@ -4,27 +4,41 @@ title: Recipes
 permalink: /recipes/
 ---
 
+{% assign _empty = "" | split: "" %}
+{% assign all_occasions = _empty %}
+{% assign all_courses = _empty %}
+{% for recipe in site.recipes %}
+  {% assign _occ = recipe.occasions | default: _empty %}
+  {% for o in _occ %}
+    {% unless all_occasions contains o %}
+      {% assign all_occasions = all_occasions | push: o %}
+    {% endunless %}
+  {% endfor %}
+  {% assign _crs = recipe.courses | default: _empty %}
+  {% for c in _crs %}
+    {% unless all_courses contains c %}
+      {% assign all_courses = all_courses | push: c %}
+    {% endunless %}
+  {% endfor %}
+{% endfor %}
+{% assign all_occasions = all_occasions | sort %}
+{% assign all_courses = all_courses | sort %}
+
 <div id="recipe-filters">
   <input type="search" id="recipe-search" placeholder="Search recipes…" aria-label="Search recipes">
 
   <div class="filter-group">
     <strong>Occasion:</strong>
     <button class="filter-btn active" data-filter-type="occasion" data-value="">All</button>
-    <button class="filter-btn" data-filter-type="occasion" data-value="Everyday/Other">Everyday/Other</button>
-    <button class="filter-btn" data-filter-type="occasion" data-value="Christmas">Christmas</button>
-    <button class="filter-btn" data-filter-type="occasion" data-value="Thanksgiving">Thanksgiving</button>
-    <button class="filter-btn" data-filter-type="occasion" data-value="Easter">Easter</button>
-    <button class="filter-btn" data-filter-type="occasion" data-value="New Years/Super Bowl/Party">New Year's/Super Bowl/Party</button>
+    {% for occasion in all_occasions %}<button class="filter-btn" data-filter-type="occasion" data-value="{{ occasion | escape }}">{{ occasion | replace: "-", " " }}</button>
+    {% endfor %}
   </div>
 
   <div class="filter-group">
     <strong>Course:</strong>
     <button class="filter-btn active" data-filter-type="course" data-value="">All</button>
-    <button class="filter-btn" data-filter-type="course" data-value="Entree">Entree</button>
-    <button class="filter-btn" data-filter-type="course" data-value="Side">Side</button>
-    <button class="filter-btn" data-filter-type="course" data-value="Appetizer/Snack">Appetizer/Snack</button>
-    <button class="filter-btn" data-filter-type="course" data-value="Breakfast">Breakfast</button>
-    <button class="filter-btn" data-filter-type="course" data-value="Dessert">Dessert</button>
+    {% for course in all_courses %}<button class="filter-btn" data-filter-type="course" data-value="{{ course | escape }}">{{ course | replace: "-", " " }}</button>
+    {% endfor %}
   </div>
 </div>
 

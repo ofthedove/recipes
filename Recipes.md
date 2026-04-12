@@ -28,7 +28,7 @@ permalink: /recipes/
   </div>
 </div>
 
-## Full List
+## <span id="list-heading">Full List</span>
 
 <div id="recipe-list">
 {% for recipe in site.recipes %}
@@ -42,7 +42,10 @@ permalink: /recipes/
         {{ recipe.title }}
       </a>
     </h3>
-    {% assign all_meta = recipe.occasions | concat: recipe.courses %}
+    {% assign _empty = "" | split: "" %}
+    {% assign _occasions = recipe.occasions | default: _empty %}
+    {% assign _courses = recipe.courses | default: _empty %}
+    {% assign all_meta = _occasions | concat: _courses %}
     {% if all_meta.size > 0 %}
     <div class="meta-chips">{% for item in all_meta %}<span class="meta-chip">{{ item }}</span>{% endfor %}</div>
     {% endif %}
@@ -58,8 +61,21 @@ permalink: /recipes/
   var searchInput = document.getElementById('recipe-search');
   var items = Array.from(document.querySelectorAll('.recipe-item'));
   var noResults = document.getElementById('no-results');
+  var listHeading = document.getElementById('list-heading');
   var activeOccasion = '';
   var activeCourse = '';
+
+  function updateHeading() {
+    var hasSearch = searchInput.value.trim().length > 0;
+    var hasFilter = activeOccasion || activeCourse;
+    if (hasSearch) {
+      listHeading.textContent = 'Search Results';
+    } else if (hasFilter) {
+      listHeading.textContent = 'Filtered List';
+    } else {
+      listHeading.textContent = 'Full List';
+    }
+  }
 
   function applyFilters() {
     var query = searchInput.value.toLowerCase().trim();
@@ -74,6 +90,7 @@ permalink: /recipes/
       if (show) visible++;
     });
     noResults.style.display = visible === 0 ? '' : 'none';
+    updateHeading();
   }
 
   searchInput.addEventListener('input', applyFilters);

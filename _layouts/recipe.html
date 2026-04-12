@@ -3,7 +3,10 @@ layout: page
 ---
 <a href="" class="noprint" onclick="window.print()">Click here to print this page</a>
 <p> </p>
-{% assign all_meta = page.occasions | concat: page.courses %}
+{% assign _empty = "" | split: "" %}
+{% assign _occasions = page.occasions | default: _empty %}
+{% assign _courses = page.courses | default: _empty %}
+{% assign all_meta = _occasions | concat: _courses %}
 {% if all_meta.size > 0 %}
 <div class="meta-chips">{% for item in all_meta %}<span class="meta-chip">{{ item }}</span>{% endfor %}</div>
 {% endif %}

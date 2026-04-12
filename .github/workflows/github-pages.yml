@@ -6,15 +6,15 @@ on:
     branches:
       - main
 
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
-
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     permissions:
       contents: write # Required to push the built site to the gh-pages branch
+
+    concurrency:
+      group: "pages-deploy-queue" # Must match deploy in pr-preview.yaml!
+      cancel-in-progress: false
 
     steps:
       - uses: actions/checkout@v6

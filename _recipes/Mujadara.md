@@ -1,9 +1,9 @@
 ---
 layout: recipe
 title: Mujadara
-occasion:
+occasions:
   - Everyday/Other
-course:
+courses:
   - Entree
 ---
 

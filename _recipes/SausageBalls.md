@@ -4,12 +4,12 @@ title: Sausage Balls
 tags:
   - "Snacks and Appetizers"
   - Holiday
-occasion:
+occasions:
   - Everyday/Other
   - Christmas
   - Thanksgiving
   - New Years/Super Bowl/Party
-course:
+courses:
   - Appetizer/Snack
 ---
 

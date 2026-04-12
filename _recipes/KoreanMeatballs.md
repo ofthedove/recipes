@@ -1,9 +1,9 @@
 ---
 layout: recipe
 title: Korean Meatballs
-occasion:
+occasions:
   - Everyday/Other
-course:
+courses:
   - Entree
 ---
 

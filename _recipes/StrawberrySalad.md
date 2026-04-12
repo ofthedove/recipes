@@ -1,9 +1,9 @@
 ---
 layout: recipe
 title: Strawberry Salad
-occasion:
+occasions:
   - Everyday/Other
-course:
+courses:
   - Side
 ---
 

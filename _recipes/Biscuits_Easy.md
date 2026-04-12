@@ -1,9 +1,9 @@
 ---
 layout: recipe
 title: Biscuits (Easy)
-occasion:
+occasions:
   - Everyday/Other
-course:
+courses:
   - Breakfast
 ---
 

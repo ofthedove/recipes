@@ -1,15 +1,15 @@
 ---
 layout: recipe
 title: Enchilada Soup
-occasion:
+occasions:
   - Everyday/Other
-course:
+courses:
   - Entree
 ---
 
 This started as a harebrained experiment but it turned out really nice, Thia liked it, and I expect I'll make it again. It's not too far off of Chicken Tortilla Soup, though it's been so long now I couldn't tell you how close it is exactly.
 
-It started because I was making J Kenji Lopez-Alt's enchiladas recipe [(Serious Eats link)](https://www.seriouseats.com/the-best-chicken-enchiladas-recipe) 
+It started because I was making J Kenji Lopez-Alt's enchiladas recipe [(Serious Eats link)](https://www.seriouseats.com/the-best-chicken-enchiladas-recipe)
 
 Had extra chicken
 cooked it, made broth, made soup

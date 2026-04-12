@@ -1,9 +1,9 @@
 ---
 layout: recipe
 title: Night Before Christmas Coffee Cake
-occasion:
+occasions:
   - Christmas
-course:
+courses:
   - Breakfast
 ---
 

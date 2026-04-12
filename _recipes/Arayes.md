@@ -1,9 +1,9 @@
 ---
 layout: recipe
 title: Arayes
-occasion:
+occasions:
   - Everyday/Other
-course:
+courses:
   - Entree
 ---
 

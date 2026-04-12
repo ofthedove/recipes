@@ -1,9 +1,9 @@
 ---
 layout: recipe
 title: Pancakes - Thia's Special Recipe
-occasion:
+occasions:
   - Everyday/Other
-course:
+courses:
   - Breakfast
 ---
 

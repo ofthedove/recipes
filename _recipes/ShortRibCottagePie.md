@@ -1,9 +1,9 @@
 ---
 layout: recipe
 title: Short Rib Cottage Pie
-occasion:
+occasions:
   - Everyday/Other
-course:
+courses:
   - Entree
 ---
 

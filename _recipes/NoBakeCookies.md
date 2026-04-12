@@ -1,9 +1,9 @@
 ---
 layout: recipe
 title: No Bake Cookies
-occasion:
+occasions:
   - Everyday/Other
-course:
+courses:
   - Dessert
 ---
 

@@ -1,9 +1,9 @@
 ---
 layout: recipe
 title: Moist Garlic Chicken
-occasion:
+occasions:
   - Everyday/Other
-course:
+courses:
   - Entree
 ---
 

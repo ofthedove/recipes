@@ -1,9 +1,9 @@
 ---
 layout: recipe
 title: Bolognese Sauce
-occasion:
+occasions:
   - Everyday/Other
-course:
+courses:
   - Entree
 ---
 
@@ -13,7 +13,7 @@ Adam Ragusea's Bolognese Sauce. Typing it up from the video so I can try it
 * 1 lb Carrots
 * 1 large Red Onion
 * Oil
-* 3 lb Ground Chuck (alt. Sirloin or Lamb) 
+* 3 lb Ground Chuck (alt. Sirloin or Lamb)
 * 1 lb Chicken Livers
 * 1 can (6 oz) Tomato Paste
 * 1 bottle White Wine
@@ -23,7 +23,7 @@ Adam Ragusea's Bolognese Sauce. Typing it up from the video so I can try it
 * < 1T Thyme
 * Garlic Powder (to taste)
 * Pepper (to taste)
-* 1/4 cup Balsamic Vinegar 
+* 1/4 cup Balsamic Vinegar
 
 ## Instructions
 Clean and dice carrots and onion. (Use food processor if available.) Add oil to dutch oven and fry carrot and onion on high heat. Stir regularly. Remove from pan and set aside when soft.

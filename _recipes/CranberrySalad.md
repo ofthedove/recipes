@@ -1,9 +1,9 @@
 ---
 layout: recipe
 title: Cranberry Salad
-occasion:
+occasions:
   - Thanksgiving
-course:
+courses:
   - Side
 ---
 

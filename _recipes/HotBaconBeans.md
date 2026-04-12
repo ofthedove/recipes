@@ -2,9 +2,9 @@
 layout: recipe
 title: Hot Bacon Beans (Colorado Beans)
 contributor: ofthedove
-occasion:
+occasions:
   - Everyday/Other
-course:
+courses:
   - Side
 ---
 

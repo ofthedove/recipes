@@ -1,9 +1,9 @@
 ---
 layout: recipe
 title: Meatloaf - Adam Ragusea
-occasion:
+occasions:
   - Everyday/Other
-course:
+courses:
   - Entree
 ---
 I've never actually made this, but I would like to try it some time. Seems like a good recipe, lots of veggies which I've not tried before

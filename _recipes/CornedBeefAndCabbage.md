@@ -1,9 +1,9 @@
 ---
 layout: recipe
 title: Corned Beef and Cabbage
-occasion:
+occasions:
   - Everyday/Other
-course:
+courses:
   - Entree
 ---
 

@@ -14,7 +14,7 @@ permalink: /recipes/
     <button class="filter-btn" data-filter-type="occasion" data-value="Christmas">Christmas</button>
     <button class="filter-btn" data-filter-type="occasion" data-value="Thanksgiving">Thanksgiving</button>
     <button class="filter-btn" data-filter-type="occasion" data-value="Easter">Easter</button>
-    <button class="filter-btn" data-filter-type="occasion" data-value="New Years/Super Bowl/Party">New Years/Super Bowl/Party</button>
+    <button class="filter-btn" data-filter-type="occasion" data-value="New Years/Super Bowl/Party">New Year's/Super Bowl/Party</button>
   </div>
 
   <div class="filter-group">

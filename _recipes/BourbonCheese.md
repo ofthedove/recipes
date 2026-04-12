@@ -1,9 +1,9 @@
 ---
 layout: recipe
 title: Bourbon Cheese
-occasion:
+occasions:
   - New Years/Super Bowl/Party
-course:
+courses:
   - Appetizer/Snack
 ---
 

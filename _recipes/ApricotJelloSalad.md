@@ -1,9 +1,9 @@
 ---
 layout: recipe
 title: Apricot Jello Salad
-occasion:
+occasions:
   - Easter
-course:
+courses:
   - Side
   - Dessert
 ---

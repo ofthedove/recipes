@@ -1,9 +1,9 @@
 ---
 layout: recipe
 title: Ham
-occasion:
+occasions:
   - Easter
-course:
+courses:
   - Entree
 ---
 

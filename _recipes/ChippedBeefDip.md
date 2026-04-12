@@ -1,10 +1,10 @@
 ---
 layout: recipe
 title: Chipped Beef Dip
-occasion:
+occasions:
   - Everyday/Other
   - New Years/Super Bowl/Party
-course:
+courses:
   - Appetizer/Snack
 ---
 

@@ -1,10 +1,10 @@
 ---
 layout: recipe
 title: Chocolate Chip Pie
-occasion:
+occasions:
   - Everyday/Other
   - Thanksgiving
-course:
+courses:
   - Dessert
 ---
 

@@ -1,9 +1,9 @@
 ---
 layout: recipe
 title: Red Sauce
-occasion:
+occasions:
   - Everyday/Other
-course:
+courses:
   - Entree
 ---
 

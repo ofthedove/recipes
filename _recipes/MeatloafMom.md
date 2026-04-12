@@ -1,9 +1,9 @@
 ---
 layout: recipe
 title: Meatloaf - Mom's Classic
-occasion:
+occasions:
   - Everyday/Other
-course:
+courses:
   - Entree
 ---
 Mom's classic meatloaf.

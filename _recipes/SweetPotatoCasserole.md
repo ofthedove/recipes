@@ -1,9 +1,9 @@
 ---
 layout: recipe
 title: Sweet Potato Casserole
-occasion:
+occasions:
   - Thanksgiving
-course:
+courses:
   - Side
 ---
 

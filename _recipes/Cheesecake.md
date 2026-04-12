@@ -1,9 +1,9 @@
 ---
 layout: recipe
 title: Cheesecake
-occasion:
+occasions:
   - Everyday/Other
-course:
+courses:
   - Dessert
 ---
 

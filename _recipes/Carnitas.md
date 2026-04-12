@@ -1,9 +1,9 @@
 ---
 layout: recipe
 title: Carnitas
-occasion:
+occasions:
   - Everyday/Other
-course:
+courses:
   - Entree
 ---
 

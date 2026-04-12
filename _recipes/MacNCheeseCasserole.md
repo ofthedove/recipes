@@ -1,11 +1,11 @@
 ---
 layout: recipe
 title: Mac and Cheese Casserole
-occasion:
+occasions:
   - Everyday/Other
   - Christmas
   - Easter
-course:
+courses:
   - Side
 ---
 
@@ -41,4 +41,4 @@ Bake, uncovered, in a 350 oven for 25 or 30 min or till bubbly.
 
 ### Easter 2023
 
-I made a mac-and-cheese casserole for Easter of 23. I mistakenly thought this recipe and the serious eats recipe were basically the same and kinda combo-ed them, but they're actually not totally interchangable... Anyway my casserole came out great. I don't know which recipe I'll use next time! 
+I made a mac-and-cheese casserole for Easter of 23. I mistakenly thought this recipe and the serious eats recipe were basically the same and kinda combo-ed them, but they're actually not totally interchangable... Anyway my casserole came out great. I don't know which recipe I'll use next time!

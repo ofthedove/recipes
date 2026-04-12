@@ -1,5 +1,6 @@
 {
     "recommendations": [
-        "bierner.github-markdown-preview"
+        "bierner.github-markdown-preview",
+        "sissel.shopify-liquid",
     ]
 }

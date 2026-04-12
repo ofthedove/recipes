@@ -1,9 +1,9 @@
 ---
 layout: recipe
 title: Pancakes - Babish's Classic
-occasion:
+occasions:
   - Everyday/Other
-course:
+courses:
   - Breakfast
 ---
 

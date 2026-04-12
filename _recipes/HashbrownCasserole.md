@@ -1,11 +1,11 @@
 ---
 layout: recipe
 title: Hashbrown Casserole
-occasion:
+occasions:
   - Christmas
   - Easter
   - Thanksgiving
-course:
+courses:
   - Side
 ---
 

@@ -1,9 +1,9 @@
 ---
 layout: recipe
 title: Red Beans and Rice
-occasion:
+occasions:
   - Everyday/Other
-course:
+courses:
   - Entree
 ---
 
@@ -44,6 +44,6 @@ Add the garlic and tomato paste, cook until fragrent. Quickly add chicken stock 
 
 Add back the sausage. Drain, rinse, and add the beans. Season to taste with Cajun Seasoning (Or whatever sounds good.)
 
-While the beans simmer and cook-down a little, prepare the rice. 
+While the beans simmer and cook-down a little, prepare the rice.
 
 Serve over rice topped with green onion and hot sauce.

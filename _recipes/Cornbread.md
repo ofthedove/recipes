@@ -1,9 +1,9 @@
 ---
 layout: recipe
 title: Cornbread
-occasion:
+occasions:
   - Everyday/Other
-course:
+courses:
   - Side
 ---
 

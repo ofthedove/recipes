@@ -79,16 +79,36 @@ permalink: /recipes/
   var activeOccasion = '';
   var activeCourse = '';
 
-  function updateHeading() {
+  // Populate static counts on filter buttons at page load
+  document.querySelectorAll('.filter-btn').forEach(function (btn) {
+    var type = btn.dataset.filterType;
+    var value = btn.dataset.value;
+    if (!value) {
+      // "All" button — total count
+      btn.dataset.label = btn.textContent;
+      btn.textContent = btn.textContent + ' (' + items.length + ')';
+    } else {
+      var dataKey = 'data-' + type;
+      var count = items.filter(function (item) {
+        return item.getAttribute(dataKey).indexOf(value + '|') !== -1;
+      }).length;
+      btn.dataset.label = btn.textContent;
+      btn.textContent = btn.textContent + ' (' + count + ')';
+    }
+  });
+
+  function updateHeading(visible) {
     var hasSearch = searchInput.value.trim().length > 0;
     var hasFilter = activeOccasion || activeCourse;
+    var label;
     if (hasSearch) {
-      listHeading.textContent = 'Search Results';
+      label = 'Search Results';
     } else if (hasFilter) {
-      listHeading.textContent = 'Filtered List';
+      label = 'Filtered List';
     } else {
-      listHeading.textContent = 'Full List';
+      label = 'Full List';
     }
+    listHeading.textContent = label + ' (' + visible + ')';
   }
 
   function applyFilters() {
@@ -104,7 +124,7 @@ permalink: /recipes/
       if (show) visible++;
     });
     noResults.style.display = visible === 0 ? '' : 'none';
-    updateHeading();
+    updateHeading(visible);
   }
 
   searchInput.addEventListener('input', applyFilters);
@@ -122,5 +142,8 @@ permalink: /recipes/
       applyFilters();
     });
   });
+
+  // Set initial heading count
+  updateHeading(items.length);
 })();
 </script>

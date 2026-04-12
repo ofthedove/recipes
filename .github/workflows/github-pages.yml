@@ -31,9 +31,24 @@ jobs:
         env:
           JEKYLL_ENV: production
 
+      - name: Checkout existing gh-pages branch
+        uses: actions/checkout@v6
+        with:
+          ref: gh-pages
+          path: old-gh-pages
+          continue-on-error: trusted
+
+      - name: Persist PR Previews
+        run: |
+          if [ -d "old-gh-pages/pr-preview" ]; then
+            cp -r old-gh-pages/pr-preview ./_site/pr-preview
+            echo "Successfully persisted PR previews!"
+          else
+            echo "No PR previews found to persist."
+          fi
+
       - name: Deploy to gh-pages branch
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./_site
-          keep_files: true # CRITICAL

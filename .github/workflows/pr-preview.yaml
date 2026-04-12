@@ -1,0 +1,39 @@
+name: Deploy PR Preview
+
+on:
+  pull_request:
+    types:
+      - opened
+      - reopened
+      - synchronize
+      - closed
+
+concurrency: preview-${{ github.ref }}
+
+jobs:
+  pr-preview:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        if: github.event.action != 'closed'
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+          bundler-cache: true
+
+      - name: Build Jekyll site
+        if: github.event.action != 'closed'
+        # Builds the site natively to the _site/ directory and dynamically sets the baseurl
+        run: bundle exec jekyll build --baseurl /${{ github.event.repository.name }}/pr-preview/pr-${{ github.event.number }}
+
+      - name: Deploy preview
+        uses: rossjrw/pr-preview-action@v1
+        with:
+          source-dir: _site/
+          wait-for-pages-deployment: true

@@ -1,9 +1,9 @@
 ---
 layout: recipe
 title: Banana Split Dessert
-occasion:
+occasions:
   - Everyday/Other
-course:
+courses:
   - Dessert
 ---
 

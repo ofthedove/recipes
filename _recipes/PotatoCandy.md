@@ -1,10 +1,10 @@
 ---
 layout: recipe
 title: Potato Candy
-occasion:
+occasions:
   - Everyday/Other
   - New Years/Super Bowl/Party
-course:
+courses:
   - Dessert
 ---
 

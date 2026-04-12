@@ -1,9 +1,9 @@
 ---
 layout: recipe
 title: Pinto Bean Pie
-occasion:
+occasions:
   - Everyday/Other
-course:
+courses:
   - Dessert
 ---
 

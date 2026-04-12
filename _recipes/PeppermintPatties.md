@@ -1,9 +1,9 @@
 ---
 layout: recipe
 title: Peppermint Patties
-occasion:
+occasions:
   - Everyday/Other
-course:
+courses:
   - Dessert
 ---
 

@@ -1,9 +1,9 @@
 ---
 layout: recipe
 title: Cooked Icing
-occasion:
+occasions:
   - Everyday/Other
-course:
+courses:
   - Dessert
 ---
 

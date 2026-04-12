@@ -1,9 +1,9 @@
 ---
 layout: recipe
 title: Pimento Cheese
-occasion:
+occasions:
   - Everyday/Other
-course:
+courses:
   - Appetizer/Snack
   - Side
   - Entree

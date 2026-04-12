@@ -1,9 +1,9 @@
 ---
 layout: recipe
 title: Sausage Cheese Muffins
-occasion:
+occasions:
   - Everyday/Other
-course:
+courses:
   - Breakfast
 ---
 
@@ -11,7 +11,7 @@ This classic savory hand-held breakfast treat is a favorite in our family. Often
 
 ## Ingredients
 - 1 lb sausage (Purnell's Old Folks Hot or Spicy-Medium)
-- 1 cup shredded cheddar 
+- 1 cup shredded cheddar
 - 1 can (10.75 oz) condensed cheddar cheese soup, undiluted
 - 2/3 cup milk
 - 3 cups bisquick

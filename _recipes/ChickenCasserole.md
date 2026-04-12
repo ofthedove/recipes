@@ -1,9 +1,9 @@
 ---
 layout: recipe
 title: Chicken Casserole
-occasion:
+occasions:
   - Everyday/Other
-course:
+courses:
   - Entree
 ---
 

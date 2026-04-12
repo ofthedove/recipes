@@ -3,8 +3,25 @@ layout: page
 ---
 <a href="" class="noprint" onclick="window.print()">Click here to print this page</a>
 <p> </p>
+{% if page.occasions.size > 0 %}
+<p>Occasions: {%
+   for occasion in page.occasions %} <a href="/occasions/{{ occasion | slugify: "raw" }}">{{ occasion }}</a>{%
+      unless forloop.last %},{%
+      endunless %}{%
+   endfor %}</p>
+{% endif %}
+
+{% if page.courses.size > 0 %}
+<p>Courses: {%
+   for course in page.courses %} <a href="/courses/{{ course | slugify: "raw" }}">{{ course }}</a>{%
+      unless forloop.last %},{%
+      endunless %}{%
+   endfor %}</p>
+{% endif %}
+
 {% if page.tags.size > 0 %}
-<p>Tags: {% for tag in page.tags %} <a href="/tags/{{ tag | slugify: "raw" }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %} {% endfor %}</p>
+<p>Tags: {% for tag in page.tags %} <a href="/tags/{{ tag | slugify: "raw" }}">{{ tag }}</a>{% unless forloop.last %},
+   {% endunless %} {% endfor %}</p>
 {% endif %}
 
 {{ content }}

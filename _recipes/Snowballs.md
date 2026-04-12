@@ -1,11 +1,11 @@
 ---
 layout: recipe
 title: Snowballs
-occasion:
+occasions:
   - Everyday/Other
   - Christmas
   - New Years/Super Bowl/Party
-course:
+courses:
   - Dessert
 ---
 

@@ -1,9 +1,9 @@
 ---
 layout: recipe
 title: Sausage Rice
-occasion:
+occasions:
   - Everyday/Other
-course:
+courses:
   - Entree
 ---
 

@@ -1,9 +1,9 @@
 ---
 layout: recipe
 title: Uncle Harry Cookies
-occasion:
+occasions:
   - Everyday/Other
-course:
+courses:
   - Dessert
 ---
 
@@ -18,13 +18,13 @@ Also known as "Crack Cookies" because they're just so good! A classic quick dess
 
 ## Instructions
 
-* Combine marshmallows and butter in a bowl. 
+* Combine marshmallows and butter in a bowl.
 * Microwave for 1 minute
-* Mix in Peanut Butter. 
+* Mix in Peanut Butter.
 * Microwave for 1 minute.
 * Fold in Cereal
 * Spray a 9x13 casserole with cooking spray.
-* Put your cookie mixture in the casserole dish and pat down. 
+* Put your cookie mixture in the casserole dish and pat down.
 * Allow to rest until firm before cutting and serving.
 
 ## Notes

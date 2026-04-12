@@ -1,9 +1,9 @@
 ---
 layout: recipe
 title: Biscuits (Flaky)
-occasion:
+occasions:
   - Everyday/Other
-course:
+courses:
   - Breakfast
 ---
 
@@ -29,7 +29,7 @@ Add buttermilk, process just until combined
 
 Turn out onto floured work surface. Quickly bring dough together with floured hands
 
-Roll out dough with floured rolling pin, then fold in thirds. Repeat 4-5 more times 
+Roll out dough with floured rolling pin, then fold in thirds. Repeat 4-5 more times
 
 When dough begins to resist rolling, fold it in half and roll to final thickness.
 
@@ -39,7 +39,7 @@ Cut straight down with biscuit cutter and place biscuits onto parchment paper li
 
 (Extra dough can be formed into biscuit shapes and also baked. These won't be as flaky, but still good!)
 
-Bake for ~12 min, until golden brown on top. 
+Bake for ~12 min, until golden brown on top.
 
 ### Notes
 

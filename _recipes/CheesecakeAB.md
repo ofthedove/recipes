@@ -1,9 +1,9 @@
 ---
 layout: recipe
 title: Cheesecake (AB)
-occasion:
+occasions:
   - Everyday/Other
-course:
+courses:
   - Dessert
 ---
 
@@ -36,4 +36,4 @@ Lower oven temperature to 250 degreese F. Place cheesecake into a preheated wate
 
 When ready to serve, place the entire cake pan into a hot water bath for about 15 seconds. Unmold onto a cake round or serving dish. Take the remaining graham cracker mixture and press into the sides of the cake.
 
-To slice, place your knife into a hot water bath and wipe dry each time you make a pass through the cake. 
+To slice, place your knife into a hot water bath and wipe dry each time you make a pass through the cake.

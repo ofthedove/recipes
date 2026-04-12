@@ -1,9 +1,9 @@
 ---
 layout: recipe
 title: Mustard Potato Salad
-occasion:
+occasions:
   - Everyday/Other
-course:
+courses:
   - Side
 ---
 

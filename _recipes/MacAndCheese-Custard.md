@@ -1,9 +1,9 @@
 ---
 layout: recipe
 title: Macaroni and Cheese
-occasion:
+occasions:
   - Everyday/Other
-course:
+courses:
   - Side
 ---
 

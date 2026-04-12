@@ -1,9 +1,9 @@
 ---
 layout: recipe
 title: Creamy Lemon Dessert
-occasion:
+occasions:
   - Everyday/Other
-course:
+courses:
   - Dessert
 ---
 

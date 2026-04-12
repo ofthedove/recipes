@@ -13,8 +13,6 @@ concurrency: preview-${{ github.ref }}
 jobs:
   pr-preview:
     runs-on: ubuntu-latest
-
-    # Required permissions to push to gh-pages and comment on the PR
     permissions:
       contents: write
       pull-requests: write
@@ -22,26 +20,19 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: actions/cache@v4
+      - name: Setup Ruby
         if: github.event.action != 'closed'
+        uses: ruby/setup-ruby@v1
         with:
-          path: vendor/bundle
-          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
-          restore-keys: |
-            ${{ runner.os }}-gems-
+          ruby-version: '3.3'
+          bundler-cache: true
 
       - name: Build Jekyll site
-        # We don't need to build if the PR is just being closed
         if: github.event.action != 'closed'
-        uses: helaili/jekyll-action@2.4.0
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          build_only: true # Tells the action to build to _site/ but NOT deploy
-          # Dynamically overrides baseurl so CSS and links work in the preview sub-directory
-          jekyll_build_options: '--baseurl /${{ github.event.repository.name }}/pr-preview/pr-${{ github.event.number }}'
+        # Builds the site natively to the _site/ directory and dynamically sets the baseurl
+        run: bundle exec jekyll build --baseurl /${{ github.event.repository.name }}/pr-preview/pr-${{ github.event.number }}
 
       - name: Deploy preview
         uses: rossjrw/pr-preview-action@v1
         with:
-          source-dir: _site/ # Tells the action where the Jekyll built files are
-          wait-for-pages-deployment: true
+          source-dir: _site/

@@ -27,7 +27,7 @@ jobs:
 
       - name: Build with Jekyll
         # Uses the base_path output from the setup step to ensure links work
-        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+        run: bundle exec jekyll build --baseurl /${{ github.event.repository.name }}/
         env:
           JEKYLL_ENV: production
 

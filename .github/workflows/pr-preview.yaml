@@ -51,7 +51,7 @@ jobs:
 
       - name: Download Artifact
         if: github.event.action != 'closed'
-        uses: actions/download-artifact@v8`
+        uses: actions/download-artifact@v8
         with:
           name: preview-site-${{ github.event.number }}
           path: _site/

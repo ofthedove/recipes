@@ -98,6 +98,46 @@ permalink: /recipes/
     return !course || item.dataset.course.indexOf(course + '|') !== -1;
   }
 
+  // --- URL state ---
+
+  function updateURL() {
+    var params = new URLSearchParams(window.location.search);
+    var q = searchInput.value.trim();
+    if (q) { params.set('q', q); } else { params.delete('q'); }
+    if (activeOccasion) { params.set('occasion', activeOccasion); } else { params.delete('occasion'); }
+    if (activeCourse) { params.set('course', activeCourse); } else { params.delete('course'); }
+    history.replaceState(null, '', params.toString() ? window.location.pathname + '?' + params.toString() : window.location.pathname);
+  }
+
+  function loadFromURL() {
+    var params = new URLSearchParams(window.location.search);
+    var q = params.get('q') || '';
+    var occasion = params.get('occasion') || '';
+    var course = params.get('course') || '';
+
+    if (q) searchInput.value = q;
+
+    if (occasion) {
+      var occBtn = document.querySelector('.filter-btn[data-filter-type="occasion"][data-value="' + occasion + '"]');
+      if (occBtn) {
+        document.querySelectorAll('.filter-btn[data-filter-type="occasion"]').forEach(function (b) { b.classList.remove('active'); });
+        occBtn.classList.add('active');
+        activeOccasion = occasion;
+      }
+    }
+
+    if (course) {
+      var crsBtn = document.querySelector('.filter-btn[data-filter-type="course"][data-value="' + course + '"]');
+      if (crsBtn) {
+        document.querySelectorAll('.filter-btn[data-filter-type="course"]').forEach(function (b) { b.classList.remove('active'); });
+        crsBtn.classList.add('active');
+        activeCourse = course;
+      }
+    }
+  }
+
+  // --- Filter logic ---
+
   function updateFilterCounts() {
     var query = searchInput.value.toLowerCase().trim();
 
@@ -154,6 +194,7 @@ permalink: /recipes/
     noResults.style.display = visible === 0 ? '' : 'none';
     updateHeading(visible);
     updateFilterCounts();
+    updateURL();
   }
 
   searchInput.addEventListener('input', applyFilters);
@@ -172,7 +213,8 @@ permalink: /recipes/
     });
   });
 
-  // Set initial heading and counts
+  // Restore state from URL, then apply
+  loadFromURL();
   applyFilters();
 })();
 </script>

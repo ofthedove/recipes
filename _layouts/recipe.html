@@ -3,6 +3,10 @@ layout: page
 ---
 <a href="" class="noprint" onclick="window.print()">Click here to print this page</a>
 <p> </p>
+{% assign all_meta = page.occasions | concat: page.courses %}
+{% if all_meta.size > 0 %}
+<div class="meta-chips">{% for item in all_meta %}<span class="meta-chip">{{ item }}</span>{% endfor %}</div>
+{% endif %}
 {% if page.tags.size > 0 %}
 <p>Tags: {% for tag in page.tags %} <a href="/tags/{{ tag | slugify: "raw" }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %} {% endfor %}</p>
 {% endif %}

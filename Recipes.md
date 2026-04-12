@@ -28,15 +28,6 @@ permalink: /recipes/
   </div>
 </div>
 
-<style>
-  #recipe-filters { margin-bottom: 1.5em; }
-  #recipe-search { width: 100%; max-width: 400px; padding: 0.3em 0.5em; margin-bottom: 0.75em; font-size: 1em; }
-  .filter-group { margin-bottom: 0.5em; }
-  .filter-btn { margin: 0.15em 0.25em 0.15em 0; padding: 0.2em 0.6em; cursor: pointer; background: none; border: 1px solid #424242; border-radius: 3px; font-size: 0.9em; }
-  .filter-btn.active { color: #fff; background-color: #424242; }
-  #no-results { display: none; }
-</style>
-
 ## Full List
 
 <div id="recipe-list">
@@ -44,22 +35,23 @@ permalink: /recipes/
   <div class="recipe-item"
     data-title="{{ recipe.title | downcase | escape }}"
     data-excerpt="{{ recipe.excerpt | markdownify | strip_html | downcase | strip | escape }}"
-    data-occasion="{% for o in recipe.occasion %}{{ o }}|{% endfor %}"
-    data-course="{% for c in recipe.course %}{{ c }}|{% endfor %}">
+    data-occasion="{% for o in recipe.occasions %}{{ o }}|{% endfor %}"
+    data-course="{% for c in recipe.courses %}{{ c }}|{% endfor %}">
     <h3>
       <a href="{{ recipe.url | relative_url }}">
         {{ recipe.title }}
       </a>
     </h3>
-    {% if recipe.tags.size > 0 %}
-    <p>Tags: {% for tag in recipe.tags %} <a href="/tags/{{ tag | slugify: "raw" }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %} {% endfor %}</p>
+    {% assign all_meta = recipe.occasions | concat: recipe.courses %}
+    {% if all_meta.size > 0 %}
+    <div class="meta-chips">{% for item in all_meta %}<span class="meta-chip">{{ item }}</span>{% endfor %}</div>
     {% endif %}
     <p>{{ recipe.excerpt | markdownify }}</p>
   </div>
 {% endfor %}
 </div>
 
-<p id="no-results">No recipes match your filters.</p>
+<p id="no-results" style="display:none">No recipes match your filters.</p>
 
 <script>
 (function () {

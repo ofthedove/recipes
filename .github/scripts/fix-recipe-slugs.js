@@ -89,9 +89,12 @@ function processRecipes() {
         fs.writeFileSync(filePath, newContent, 'utf8');
       }
 
-      // Record title for PR title update (use the first new recipe found)
+      // Record title for PR title update (use the first new recipe found;
+      // PRs typically contain only one new recipe so subsequent ones are ignored)
       if (outputRecipeTitle === null) {
         outputRecipeTitle = frontmatter.title;
+      } else {
+        console.log(`Multiple new recipes found; PR title will use: ${outputRecipeTitle}`);
       }
     }
   });

@@ -51,6 +51,10 @@
   text-decoration: none;
 }
 
+.meta-chip:visited {
+  color: #666;
+}
+
 .meta-chip:hover {
   color: #fff;
   background-color: #424242;

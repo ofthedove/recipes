@@ -1,0 +1,12 @@
+{% assign _empty = "" | split: "" %}
+{% assign _inc_occasions = include.occasions | default: _empty %}
+{% assign _inc_courses = include.courses | default: _empty %}
+{% assign _inc_all = _inc_occasions | concat: _inc_courses %}
+{% if _inc_all.size > 0 %}
+<div class="meta-chips">
+  {% for o in _inc_occasions %}<a href="{% link Recipes.md %}?occasion={{ o | url_encode }}" class="meta-chip">{{ o | replace: "-", " " }}</a>
+  {% endfor %}
+  {% for c in _inc_courses %}<a href="{% link Recipes.md %}?course={{ c | url_encode }}" class="meta-chip">{{ c | replace: "-", " " }}</a>
+  {% endfor %}
+</div>
+{% endif %}

@@ -36,10 +36,19 @@ jobs:
         run: cd trusted-logic && npm install js-yaml
 
       - name: Fix recipe slugs
+        id: fix-slugs
         working-directory: pr-content
         env:
           NODE_PATH: ${{ github.workspace }}/trusted-logic/node_modules
         run: node ../trusted-logic/.github/scripts/fix-recipe-slugs.js
+
+      - name: Update PR title
+        if: steps.fix-slugs.outputs.recipe_title != ''
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+          RECIPE_TITLE: ${{ steps.fix-slugs.outputs.recipe_title }}
+        run: gh pr edit "$PR_NUMBER" --title "$RECIPE_TITLE" --repo ${{ github.repository }}
 
       - name: Set contributor
         working-directory: pr-content

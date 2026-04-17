@@ -46,7 +46,8 @@ function parseFrontmatter(content) {
 // Process all recipe files
 function processRecipes() {
   const files = fs.readdirSync(recipesDir);
-  
+  let outputRecipeTitle = null;
+
   files.forEach(filename => {
     const filePath = path.join(recipesDir, filename);
     
@@ -87,8 +88,19 @@ function processRecipes() {
         console.log(`Updating slug in: ${filename}`);
         fs.writeFileSync(filePath, newContent, 'utf8');
       }
+
+      // Record title for PR title update (use the first new recipe found)
+      if (outputRecipeTitle === null) {
+        outputRecipeTitle = frontmatter.title;
+      }
     }
   });
+
+  // Write recipe title to GitHub Actions output for PR title update
+  if (outputRecipeTitle !== null && process.env.GITHUB_OUTPUT) {
+    fs.appendFileSync(process.env.GITHUB_OUTPUT, `recipe_title=${outputRecipeTitle}\n`);
+    console.log(`Set recipe_title output: ${outputRecipeTitle}`);
+  }
 }
 
 try {

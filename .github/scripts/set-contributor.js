@@ -15,6 +15,12 @@ async function getContributorName() {
     throw new Error('PR_AUTHOR_LOGIN is required but was not provided.');
   }
 
+  // Skip contributor update for bot authors
+  if (prAuthorLogin.endsWith('[bot]')) {
+    console.log(`Skipping contributor update for bot author: ${prAuthorLogin}`);
+    return null;
+  }
+
   const headers = {
     'Accept': 'application/vnd.github+json',
     'User-Agent': 'recipes-contributor-updater'
@@ -55,6 +61,11 @@ function parseFrontmatter(content) {
 // Process all recipe files
 async function processRecipes() {
   const contributorName = await getContributorName();
+
+  if (contributorName === null) {
+    return;
+  }
+
   const files = fs.readdirSync(recipesDir);
 
   files.forEach(filename => {

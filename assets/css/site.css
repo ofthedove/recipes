@@ -48,4 +48,16 @@
   border-radius: 3px;
   padding: 0.1em 0.45em;
   white-space: nowrap;
+  text-decoration: none;
+}
+
+.meta-chip:visited {
+  color: #666;
+}
+
+.meta-chip:hover {
+  color: #fff;
+  background-color: #424242;
+  border-color: #424242;
+  text-decoration: none;
 }

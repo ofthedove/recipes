@@ -59,10 +59,7 @@ permalink: /recipes/
     {% assign _empty = "" | split: "" %}
     {% assign _occasions = recipe.occasions | default: _empty %}
     {% assign _courses = recipe.courses | default: _empty %}
-    {% assign all_meta = _occasions | concat: _courses %}
-    {% if all_meta.size > 0 %}
-    <div class="meta-chips">{% for item in all_meta %}<span class="meta-chip">{{ item }}</span>{% endfor %}</div>
-    {% endif %}
+    {% include meta-chips.html occasions=_occasions courses=_courses %}
     <p>{{ recipe.excerpt | markdownify }}</p>
   </div>
 {% endfor %}

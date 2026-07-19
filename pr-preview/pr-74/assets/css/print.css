@@ -1,0 +1,19 @@
+@media print
+{
+   .site-header {
+      display:none;
+   }
+
+   footer {
+      display:none;
+   }
+
+   .noprint {
+      display:none;
+   }
+   
+   .pagebreak {
+      break-before: always;
+   }
+}
+   

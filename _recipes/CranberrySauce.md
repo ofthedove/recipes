@@ -4,9 +4,9 @@ slug: CranberrySauce
 title: Cranberry Sauce
 contributor: Andrew Combs
 source: https://www.seriouseats.com/the-food-lab-thanksgiving-special-the-worlds-easiest-cranberry-sauce
-occasion:
+occasions:
   - Thanksgiving
-course:
+courses:
   - Side
 ---
 This super-simple cranberry sauce is easy to make. It's almost basically a jam, and goes great as a sauce with Thanksgiving or on some sausage balls. This recipe is by J. Kenji Lopez-Alt [on Serious Eats](https://www.seriouseats.com/the-food-lab-thanksgiving-special-the-worlds-easiest-cranberry-sauce).

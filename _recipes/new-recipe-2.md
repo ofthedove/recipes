@@ -29,10 +29,14 @@ It's like a pumpkin pie, but with pinto beans instead of pumpkin. What's not to 
 - Whipped cream, for serving (optional)
 
 ## Instructions
-- This can be paragraphs, unordered list (with - or *), or an ordered list (1. 2. etc)
-- Here is another Instructions
+1. This recipe uses cooked pinto beans. Cook up a big pot of Nebraska pinto beans and save some to bake this Pinto Bean Pie. It takes about 1 cup to 1 and ½ cups of dry pinto beans to get 3 cups of cooked pinto beans.
+1. Preheat oven to 350 degrees F (~175 degrees C).
+1. In a food processor or blender, cream butter, white sugar, and brown sugar.
+1. Add the eggs and blend, scraping down the sides as necessary.
+1. Rinse pinto beans and drain well. Add to the food processor/blender with the milk, spices, vanilla, and salt and puree until smooth.
+1. Pour the mixture into two 9-inch pie shells and bake until set and starting to turn a golden brown on top, and an inserted knife comes out clean. Baking time varies with oven but will be around 60 – 80 minutes.
+1. Let Pinto Bean Pie cool at room temperature, to allow to set.
+1. Serve with whipped cream, if desired. Leftovers store well in the refrigerator, in an airtight container or covered with plastic wrap and foil.
 
 ## Notes
-- This is a nice place to include any other relevant info
-- Like common variations
-- Or notes about an ingredient or step
+- 

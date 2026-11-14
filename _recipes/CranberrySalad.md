@@ -7,7 +7,7 @@ courses:
   - Side
 ---
 
-A Thanksgiving staple, this cranberry-centric fruit salad excells as a fresh and tart foil to an otherwise rich, savory meal.
+A Thanksgiving staple, this cranberry-centric fruit salad excels as a fresh and tart foil to an otherwise rich, savory meal. This is the traditional cranberry dish at the Combs Thanksgiving.
 
 ## Ingredients
 - 1 12oz package fresh or frozen cranberries

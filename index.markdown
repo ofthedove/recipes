@@ -12,32 +12,12 @@ I keep finding/borrowing recipes, making them, and then losing them. To put an e
 ## [Meal Planning]({% link MealPlanning.md %})
 Resources to help with meal planning. Lists of commonly eaten meals for inspiration.
 
-## [Links]({% link Links.md %})
-Quick-link to a document in the repo with links to things I want to make/add. I'm working on moving these to issues on a project board.
+## Holiday Cheat Sheets
 
-## By Type
-### Meal
-* [Red Beans and Rice]({% link _recipes/RedBeansAndRice.md %})
-* [Carnitas]({% link _recipes/Carnitas.md %})
-* [Chicken Casserole]({% link _recipes/ChickenCasserole.md %})
-* [Jambalaya]({% link _recipes/Jambalaya.md %})
-* [Moist Garlic Chicken]({% link _recipes/MoistGarlicChicken.md %})
-* [Red Sauce]({% link _recipes/RedSauce.md %})
-* [Short Rib Cottage Pie]({% link _recipes/ShortRibCottagePie.md %})
-* Meatloaf: [Mom's]({% link _recipes/MeatloafMom.md %}) or [Glazed]({% link _recipes/MeatloafGlazed.md %}) or [Ragusea]({% link _recipes/MeatloafRagusea.md %})
-
-### Snacks and Sides
-* [Pimento Cheese]({% link _recipes/PimentoCheese.md %})
-
-### Dessert
-* [No Bake Cookies]({% link _recipes/NoBakeCookies.md %})
-* [Lemon Meringue Pie]({% link _recipes/LemonMeringuePie.md %})
-* [Banana Split Dessert]({% link _recipes/BananaSplitDessert.md %})
-
-## By Occaion
 ### All Occasions
 These items tend to get made anytime there's a family gathering
 * [Bourbon Cheese]({% link _recipes/BourbonCheese.md %})
+* Beer Cheese
 * [Chex Mix]({% link _recipes/ChexMix.md %})
 * [Sausage Balls]({% link _recipes/SausageBalls.md %})
 
@@ -52,20 +32,18 @@ These items tend to get made anytime there's a family gathering
 * Deviled Eggs
 
 ### Thanksgiving
-
-[Main Page]({% link Thanksgiving.md %})
-
-* Turkey - No recipe, there's lots of ways to cook a turkey, I'm not super attached to a particular method
-* Gravy - I don't know if I'll do a recipe, gravy is gravy
-* Dressing - Need Recipe
-* Potatoes - May make a potato mega-recipe for all the different kinds of potato. This meal gets mashed
+* Turkey - I like to fry a turkey but I try to do 3+ to justify the oil cost. If I'm just doing one I may roast it instead.
+* Gravy - Brown gravy (cornstarch style)
+* [Dressing]({% link _recipes/SageAndSausageDressing.md %})
+* Potatoes - Mashed potatoes, russets, peeled.
 * Cream Corn - Need Recipe (We don't always do this one, but I really like it)
 * [Sweet Potato Casserole]({% link _recipes/SweetPotatoCasserole.md %})
-* [Cranberry Salad]({% link _recipes/CranberrySalad.md %})
+* [Cranberry Salad]({% link _recipes/CranberrySalad.md %}) is traditional but sometimes I do [Cranberry Sauce]({% link _recipes/CranberrySalad.md %}) instead.
 * Marshmallow Fruit Salad - This isn't always there, but I want the recipe
 * Pumpkin Pie - Need Recipe
 * Pecan Pie - Need Recipe
 * [Chocolate Chip Pie]({% link _recipes/ChocolateChipPie.md %})
+* [Pinto Bean Pie]({% link _recipes/PintoBeanPie.md %})
 
 ### Christmas
 #### Eve

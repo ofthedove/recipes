@@ -4,9 +4,9 @@ slug: SageAndSausageDressing
 title: Sage and Sausage Dressing
 contributor: Andrew Combs
 source: https://www.seriouseats.com/classic-sage-and-sausage-stuffing-or-dressing-recipe
-occasion:
+occasions:
   - Thanksgiving
-course:
+courses:
   - Side
 ---
 There are many dressing recipes. This is a new one but I think I'll like it. Recipe is from J. Kenji Lopez-Alt published [on Serious Eats](https://www.seriouseats.com/classic-sage-and-sausage-stuffing-or-dressing-recipe)

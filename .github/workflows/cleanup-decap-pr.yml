@@ -10,7 +10,7 @@ jobs:
   fix-slugs:
     runs-on: ubuntu-latest
     if: >
-      github.event.pull_request.title == 'Create Recipes "new-recipe"' &&
+      contains(github.event.pull_request.title, 'Create Recipes "new-recipe') &&
       contains(toJSON(github.event.pull_request.labels.*.name), 'decap-cms')
     permissions:
       contents: write

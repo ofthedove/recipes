@@ -36,13 +36,13 @@ collections:
       - { label: "Contributor", name: "contributor", widget: "hidden", default: "default-contributor" }
       - { label: "Source (what cookbook, chef, family, etc)", name: "source", widget: "string", required: false }
       - label: "Occasion"
-        name: "occasion"
+        name: "occasions"
         widget: "select"
         multiple: true
         required: true
         options: ["Christmas", "Easter", "Thanksgiving", "New Years/Super Bowl/Party", "Everyday/Other"]
       - label: "Course"
-        name: "course"
+        name: "courses"
         widget: "select"
         multiple: true
         options: ["Breakfast", "Side", "Entree", "Dessert", "Appetizer/Snack"]

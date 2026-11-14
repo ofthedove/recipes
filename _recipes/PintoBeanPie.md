@@ -4,10 +4,10 @@ slug: PintoBeanPie
 title: Pinto Bean Pie
 contributor: Andrew Combs
 source: https://alegumeaday.com/pinto-bean-pie/
-occasion:
+occasions:
   - Thanksgiving
   - Everyday/Other
-course:
+courses:
   - Dessert
 ---
 It's like a pumpkin pie, but with pinto beans instead of pumpkin. What's not to love? I made this and took it to work when I was working in Smalls. It's pretty good, the taste is familiar, but the texture is a little different. I think it's the bean skins. I don't think I'd recommend attempting this without a food processor or blender.

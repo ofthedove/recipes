@@ -1,8 +1,8 @@
 ---
 layout: recipe
-slug: new-recipe
+slug: SageAndSausageDressing
 title: Sage and Sausage Dressing
-contributor: default-contributor
+contributor: Andrew Combs
 source: https://www.seriouseats.com/classic-sage-and-sausage-stuffing-or-dressing-recipe
 occasion:
   - Thanksgiving

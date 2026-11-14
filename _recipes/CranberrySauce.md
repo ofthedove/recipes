@@ -1,8 +1,8 @@
 ---
 layout: recipe
-slug: new-recipe
+slug: CranberrySauce
 title: Cranberry Sauce
-contributor: default-contributor
+contributor: Andrew Combs
 source: https://www.seriouseats.com/the-food-lab-thanksgiving-special-the-worlds-easiest-cranberry-sauce
 occasion:
   - Thanksgiving

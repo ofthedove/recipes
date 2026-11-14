@@ -13,6 +13,8 @@ There are many dressing recipes. This is a new one but I think I'll like it. Rec
 
 The biggest lesson from this recipe is to toast the bread, rather than staling it.
 
+For an option without meat (that I have made before), see [The Best Vegan Stuffing](https://www.seriouseats.com/best-vegan-stuffing-thanksgiving-recipe-vegetarian)
+
 ## Ingredients
 - 2 1/2 pounds (1.25 kg) high-quality sandwich bread or soft Italian or French bread (about 2 loaves), cut into 3/4-inch dice (about 5 quarts)
 - 8 tablespoons butter (1 stick; 4 ounces; 115 g)

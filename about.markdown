@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+The source for this site can be viewed at https://github.com/ofthedove/recipes
+
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
@@ -18,8 +20,10 @@ You can find the source code for Jekyll at GitHub:
 [jekyll-organization]: https://github.com/jekyll
 
 These links have been helpful from a technical perspective:
-jekyllrb.com
-https://github.com/jekyll/minima
-https://mademistakes.com/mastering-jekyll/site-url-baseurl/
-https://blog.webjeda.com/instant-jekyll-search/
-https://stackoverflow.com/questions/20101409/how-can-i-insert-a-print-button-that-prints-a-form-in-a-webpage
+- https://jekyllrb.com
+- https://github.com/jekyll/minima
+- https://mademistakes.com/mastering-jekyll/site-url-baseurl/
+- https://blog.webjeda.com/instant-jekyll-search/
+- https://stackoverflow.com/questions/20101409/how-can-i-insert-a-print-button-that-prints-a-form-in-a-webpage
+
+Decap CMS is used to provide the GUI for adding recipes.

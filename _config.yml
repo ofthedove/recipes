@@ -23,8 +23,7 @@ title: Andrew's Recipes
 description: >- # this means to ignore newlines until "baseurl:"
   This website is intended to contain all the recipes I regularly use.
   From weeknight meals to holiday treats it's all here.
-  If you think a recipe is missing, submit a PR! Or, if those words
-  don't mean anything to you, shoot me a message!
+  If you think a recipe is missing, hit that "Add" link in the top right! 
 baseurl: "/recipes" # the subpath of your site, e.g. /blog
 url: "https://ofthedove.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb

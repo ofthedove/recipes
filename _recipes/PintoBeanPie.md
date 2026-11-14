@@ -10,7 +10,9 @@ occasions:
 courses:
   - Dessert
 ---
-It's like a pumpkin pie, but with pinto beans instead of pumpkin. What's not to love? I made this and took it to work when I was working in Smalls. It's pretty good, the taste is familiar, but the texture is a little different. I think it's the bean skins. I don't think I'd recommend attempting this without a food processor or blender.
+It's like a pumpkin pie, but with pinto beans instead of pumpkin. What's not to love? I made this for the 2024 Holiday potluck at GE Appliances, when I was in smalls, mostly for the novelty. It does taste not that different from pumpkin pie, different but still good. The texture is unique though. The bits of bean skin make it pretty grainy.
+
+Found on TikTok, this recipe is copied from [ALegumeADay.com](https://alegumeaday.com/pinto-bean-pie/)
 
 ## Ingredients
 - 3 cups cooked pinto beans, drained and rinsed

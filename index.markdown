@@ -32,16 +32,13 @@ These items tend to get made anytime there's a family gathering
 * Deviled Eggs
 
 ### Thanksgiving
-
-[Main Page]({% link Thanksgiving.md %})
-
-* Turkey - No recipe, there's lots of ways to cook a turkey, I'm not super attached to a particular method
+* Turkey - I like to fry a turkey but I try to do 3+ to justify the oil cost. If I'm just doing one I may roast it instead.
 * Gravy - Brown gravy (cornstarch style)
 * [Dressing]({% link _recipes/SageAndSausageDressing.md %})
 * Potatoes - Mashed potatoes, russets, peeled.
 * Cream Corn - Need Recipe (We don't always do this one, but I really like it)
 * [Sweet Potato Casserole]({% link _recipes/SweetPotatoCasserole.md %})
-* [Cranberry Salad]({% link _recipes/CranberrySalad.md %})
+* [Cranberry Salad]({% link _recipes/CranberrySalad.md %}) is traditional but sometimes I do [Cranberry Sauce]({% link _recipes/CranberrySalad.md %}) instead.
 * Marshmallow Fruit Salad - This isn't always there, but I want the recipe
 * Pumpkin Pie - Need Recipe
 * Pecan Pie - Need Recipe

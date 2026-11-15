@@ -1,6 +1,9 @@
 name: cleanup-decap-pr
 
 on:
+  # Note that there's a policy restricting this to only pull_request_target
+  # The policy is necessary to allow this, but if any others are added the policy needs to be updated
+  # Likewise, if this file name changes the policy filter needs to be updated
   pull_request_target:
     types: [opened, synchronize]
     paths:
@@ -9,6 +12,7 @@ on:
 jobs:
   fix-slugs:
     runs-on: ubuntu-latest
+    environment: approve-recipe-pr
     if: >
       startsWith(github.event.pull_request.head.ref, 'cms/')
     permissions:
@@ -62,6 +66,8 @@ jobs:
 
       - name: Commit changes
         working-directory: pr-content
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -70,5 +76,5 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Auto-fix recipe filenames to PascalCase and set contributor"
-            git push origin HEAD:${{ github.event.pull_request.head.ref }}
+            git push "https://x-access-token:${GITHUB_TOKEN}@://github.com{{ github.event.pull_request.head.repo.full_name }}.git" HEAD:${{ github.event.pull_request.head.ref }}
           fi
